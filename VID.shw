@@ -1,0 +1,14 @@
+#2.7#
+show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
+cue/000 010 "Speak" 0 -1 1 0 1 0 0
+cue/001 100 "Your Love Awaken" 0 -1 4 0 1 0 0
+cue/002 110 "Speak" 0 -1 1 0 1 0 0
+cue/003 200 "Graves to Garden" 0 -1 5 0 1 0 0
+cue/004 210 "Speak" 0 -1 1 0 1 0 0
+scene/000 "Start" "" %000000000 1
+snippet/000 "Labels" 2 224 0 0 1
+snippet/001 "Speak" 17632 224 536871680 0 1
+snippet/002 "See a victory" 17504 224 0 0 1
+snippet/003 "In the river" 17504 224 0 0 1
+snippet/004 "Your Love Awaken" 17504 224 0 0 1
+snippet/005 "Graves to Garden" 17504 224 0 0 1
