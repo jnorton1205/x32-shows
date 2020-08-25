@@ -1,7 +1,7 @@
 #2.7#
 show "VID2" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 10 "Speak" 0 -1 1 0 1 0 0
-cue/001 100 "Your Love Awaken" 0 -1 4 0 1 0 0
+cue/001 100 "Unstoppable God" 0 -1 6 0 1 0 0
 cue/002 110 "Speak" 0 -1 1 0 1 0 0
 cue/003 200 "Graves to Garden" 0 -1 5 0 1 0 0
 cue/004 210 "Speak" 0 -1 1 0 1 0 0
@@ -12,3 +12,4 @@ snippet/002 "See a victory" 17504 224 0 0 1
 snippet/003 "In the river" 17504 224 0 0 1
 snippet/004 "Your Love Awaken" 17632 224 536870912 0 1
 snippet/005 "Graves to Garden" 17632 224 536870912 0 1
+snippet/006 "Unstoppable God" 17632 224 536870912 0 1

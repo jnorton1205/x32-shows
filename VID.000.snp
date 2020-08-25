@@ -1,6 +1,6 @@
 #2.7# "Labels" 2 224 0 0 1                                                                                                     
 /ch/04/config "Electric 1" 20 MG 19
-/ch/05/config "Electric 2" 21 MG 18
+/ch/05/config "Electric 2" 21 MG 0
 /ch/06/config "Kevin" 51 CY 28
 /ch/07/config "Danielle" 51 CY 29
 /ch/08/config "" 51 CY 0
