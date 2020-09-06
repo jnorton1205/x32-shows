@@ -1,16 +1,3 @@
-#2.7# "Speak" 17632 224 536870912 0 1                                                                                          
-/ch/06/grp %00100000 %000000
-/ch/06/mix/fader  +0.0
-/ch/06/mix/pan +0
-/ch/06/mix/13 ON  -10.0 +0 POST
-/ch/06/mix/14 ON   -oo
-/ch/07/grp %00100000 %000000
-/ch/07/mix/fader  -0.0
-/ch/07/mix/pan +0
-/ch/07/mix/13 ON  -10.0 +0 POST
-/ch/07/mix/14 ON   -oo
-/ch/08/grp %00100000 %000000
-/ch/08/mix/fader  -0.0
-/ch/08/mix/pan +0
-/ch/08/mix/13 ON  -10.0 +0 POST
-/ch/08/mix/14 ON   -oo
+#2.7# "Vid: 0dB" 17632 224 536870912 0 1                                                                                          
+/auxin/05/mix ON   0.0 ON -100 OFF   -oo
+/auxin/06/mix ON   0.0 ON +100 OFF   -oo
