@@ -1,5 +1,5 @@
 #2.7#
-show "VID2" 0 0 0 0 0 0 0 0 0 0 "3.12"
+show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 10 "Speak" 0 -1 1 0 1 0 0
 cue/001 100 "Unstoppable God" 0 -1 6 0 1 0 0
 cue/002 110 "Speak" 0 -1 1 0 1 0 0
