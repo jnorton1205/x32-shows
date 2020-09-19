@@ -4,15 +4,15 @@ cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 110 "Vid: Pre-Service" 0 -1 10 0 1 0 0
 cue/002 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/003 210 "Vid: Host Bloope" 0 -1 1 0 1 0 0
-cue/004 211 "Unmute Host" 0 -1 18 0 1 0 0
+cue/004 211 "Unmute Host" 0 -1 11 0 1 0 0
 cue/005 212 "Music" 0 -1 10 0 1 0 0
 cue/006 300 "Worship" 1 -1 -1 0 1 0 0
 cue/007 301 "Speak" 0 -1 8 0 1 0 0
 cue/008 302 "Unmute Band" 0 -1 6 0 1 0 0
-cue/009 303 "Mute Host" 0 -1 19 0 1 0 0
-cue/010 310 "Raise A Halleluj" 0 -1 17 0 1 0 0
+cue/009 303 "Mute Host" 0 -1 12 0 1 0 0
+cue/010 310 "Raise A Halleluj" 0 -1 19 0 1 0 0
 cue/011 311 "Speak" 0 -1 8 0 1 0 0
-cue/012 320 "Graves to Garden" 0 -1 12 0 1 0 0
+cue/012 320 "Graves to Garden" 0 -1 14 0 1 0 0
 cue/013 400 "Hosting" 1 -1 -1 0 1 0 0
 cue/014 410 "Vid:By the Numbe" 0 -1 1 0 1 0 0
 cue/015 411 "Speak" 0 -1 8 0 1 0 0
@@ -42,12 +42,12 @@ snippet/007 "Mute Band" 128 4194303 0 0 1
 snippet/008 "Speak" 17632 224 536870912 0 1
 snippet/009 "Track" 128 786432 0 0 1
 snippet/010 "Vid -20dB" 192 0 48 0 1
-snippet/011 "Your Love Awaken" 17632 224 536870912 0 1
-snippet/012 "Graves to Garden" 17632 224 536870912 0 1
-snippet/013 "Unstoppable God" 17632 224 536870912 0 1
-snippet/014 "Death Arrested" 17632 224 536870912 0 1
-snippet/015 "See A Victory" 17632 224 536870912 0 1
-snippet/016 "In the river" 17504 224 0 0 1
-snippet/017 "Raise a Halleluj" 17504 224 0 0 1
-snippet/018 "Unmute Host 2" 128 536870912 0 0 1
-snippet/019 "Mute Host 2" 128 536870912 0 0 1
+snippet/011 "Unmute Host 2" 128 536870912 0 0 1
+snippet/012 "Mute Host 2" 128 536870912 0 0 1
+snippet/013 "Your Love Awaken" 17632 224 536870912 0 1
+snippet/014 "Graves to Garden" 17632 224 536870912 0 1
+snippet/015 "Unstoppable God" 17632 224 536870912 0 1
+snippet/016 "Death Arrested" 17632 224 536870912 0 1
+snippet/017 "See A Victory" 17632 224 536870912 0 1
+snippet/018 "In the river" 17504 224 0 0 1
+snippet/019 "Raise a Halleluj" 17504 224 0 0 1
