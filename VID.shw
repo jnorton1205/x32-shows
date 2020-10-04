@@ -4,7 +4,7 @@ cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 110 "Vid: Pre-Service" 0 -1 10 0 1 0 0
 cue/002 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/003 201 "Unmute Host" 0 -1 2 0 1 0 0
-cue/004 202 "Music" 0 -1 10 0 1 0 0
+cue/004 202 "Music" 1 -1 10 0 1 0 0
 cue/005 300 "Worship" 1 -1 -1 0 1 0 0
 cue/006 301 "Speak" 0 -1 8 0 1 0 0
 cue/007 302 "Unmute Band" 0 -1 6 0 1 0 0
@@ -13,13 +13,13 @@ cue/009 310 "Way Maker" 0 -1 20 0 1 0 0
 cue/010 311 "Speak" 0 -1 8 0 1 0 0
 cue/011 320 "Graves to Garden" 0 -1 14 0 1 0 0
 cue/012 400 "Hosting" 1 -1 -1 0 1 0 0
-cue/013 410 "Vid: By the Numbe" 0 -1 1 0 1 0 0
+cue/013 410 "Vid: By the Numb" 0 -1 1 0 1 0 0
 cue/014 411 "Speak" 0 -1 8 0 1 0 0
 cue/015 412 "Mute Band" 0 -1 7 0 1 0 0
 cue/016 420 "Unmute Host" 0 -1 2 0 1 0 0
-cue/017 421 "Music" 0 -1 10 0 1 0 0
-cue/018 422 "Mute Host" 0 -1 3 0 1 0 0
-cue/019 430 "Vid: GG Kyle" 0 -1 1 0 1 0 0
+cue/017 421 "Music" 0 -1 1 0 1 0 0
+cue/018 430 "Vid: GG Kyle" 0 -1 1 0 1 0 0
+cue/019 432 "Mute Host" 0 -1 3 0 1 0 0
 cue/020 500 "Message" 1 -1 -1 0 1 0 0
 cue/021 510 "Vid: Message Bum" 0 -1 1 0 1 0 0
 cue/022 520 "Unmute Roscoe" 0 -1 4 0 1 0 0
@@ -38,7 +38,7 @@ snippet/006 "Unmute Band" 128 4194303 0 0 1
 snippet/007 "Mute Band" 128 4194303 0 0 1
 snippet/008 "Speak" 17632 224 536870912 0 1
 snippet/009 "Track" 128 786432 0 0 1
-snippet/010 "Vid -20dB" 192 0 48 0 1
+snippet/010 "Vid -10dB" 192 0 48 0 1
 snippet/011 "Unmute Host 2" 128 536870912 0 0 1
 snippet/012 "Mute Host 2" 128 536870912 0 0 1
 snippet/013 "Your Love Awaken" 17632 224 536870912 0 1
