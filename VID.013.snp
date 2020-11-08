@@ -12,7 +12,7 @@
 /ch/06/mix/16 ON   -oo
 /ch/07/grp %01000000 %000000
 /ch/07/mix/fader  -0.9
-/ch/07/mix/pan -50
+/ch/07/mix/pan -35
 /ch/07/mix/on ON
 /ch/07/mix/13 ON -15.0 +0 POST
 /ch/07/mix/14 ON   -oo
@@ -20,7 +20,7 @@
 /ch/07/mix/16 ON   -oo
 /ch/08/grp %01000000 %000000
 /ch/08/mix/fader  -0.5
-/ch/08/mix/pan +50
+/ch/08/mix/pan +35
 /ch/08/mix/on ON
 /ch/08/mix/13 ON -15.0 +0 POST
 /ch/08/mix/14 ON   -oo
