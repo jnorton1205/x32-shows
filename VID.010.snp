@@ -1,7 +1,7 @@
 #2.7# "Vid -10dB" 192 0 48 0 1                                                                                                 
-/auxin/05/mix/fader -10.0
+/auxin/05/mix/fader  -5.0
 /auxin/05/mix/pan -100
 /auxin/05/mix/on ON
-/auxin/06/mix/fader -10.0
+/auxin/06/mix/fader  -5.0
 /auxin/06/mix/pan +100
 /auxin/06/mix/on ON
