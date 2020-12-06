@@ -2,34 +2,38 @@
 show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 110 "Vid: Pre-Service" 0 -1 10 0 1 0 0
-cue/002 200 "Welcome" 1 -1 -1 0 1 0 0
-cue/003 210 "Unmute Host" 0 -1 2 0 1 0 0
-cue/004 211 "BG Music" 0 -1 10 0 1 0 0
-cue/005 300 "Worship" 1 -1 -1 0 1 0 0
-cue/006 301 "Speak" 0 -1 8 0 1 0 0
-cue/007 302 "Unmute Band" 0 -1 6 0 1 0 0
-cue/008 303 "Mute Host" 0 -1 3 0 1 0 0
-cue/009 310 "God I Look To Yo" 0 -1 29 0 1 0 0
-cue/010 311 "Speak" 0 -1 8 0 1 0 0
-cue/011 320 "O Praise The Nam" 0 -1 30 0 1 0 0
-cue/012 321 "Speak" 0 -1 8 0 1 0 0
-cue/013 322 "Unmute Pastor" 0 -1 4 0 1 0 0
-cue/014 323 "Mute Pastor" 0 -1 5 0 1 0 0
-cue/015 330 "Do It Again" 0 -1 31 0 1 0 0
-cue/016 400 "Hosting" 1 -1 -1 0 1 0 0
-cue/017 410 "Vid: Who We Are" 0 -1 1 0 1 0 0
-cue/018 411 "Speak" 0 -1 8 0 1 0 0
-cue/019 412 "Mute Band" 0 -1 7 0 1 0 0
-cue/020 420 "Unmute Host" 0 -1 2 0 1 0 0
-cue/021 421 "BG Music" 0 -1 10 0 1 0 0
-cue/022 430 "Vid: Message Bum" 0 -1 1 0 1 0 0
-cue/023 431 "Mute Host" 0 -1 3 0 1 0 0
-cue/024 500 "Message" 1 -1 -1 0 1 0 0
-cue/025 510 "Unmute Ernie" 0 -1 4 0 1 0 0
-cue/026 511 "Prayer Track" 0 -1 9 0 1 0 0
-cue/027 600 "Post-Service" 1 -1 -1 0 1 0 0
-cue/028 610 "Vid: Post-Servic" 0 -1 10 0 1 0 0
-cue/029 611 "Mute Ernie" 0 -1 5 0 1 0 0
+cue/002 111 "Speak" 0 -1 8 0 1 0 0
+cue/003 112 "Unmute Band" 0 -1 6 0 1 0 0
+cue/004 120 "Jingle Bell Rock" 0 -1 29 0 1 0 0
+cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
+cue/006 210 "Unmute Host" 0 -1 2 0 1 0 0
+cue/007 211 "BG Music" 0 -1 10 0 1 0 0
+cue/008 212 "Mute Band" 0 -1 7 0 1 0 0
+cue/009 300 "Worship" 1 -1 -1 0 1 0 0
+cue/010 301 "Speak" 0 -1 8 0 1 0 0
+cue/011 302 "Unmute Band" 0 -1 6 0 1 0 0
+cue/012 303 "Mute Host" 0 -1 3 0 1 0 0
+cue/013 310 "My Soul Magnifies The Lord" 0 -1 30 0 1 0 0
+cue/014 311 "Speak" 0 -1 8 0 1 0 0
+cue/015 320 "All Creation Sing" 0 -1 31 0 1 0 0
+cue/016 321 "Speak" 0 -1 8 0 1 0 0
+cue/017 330 "Great Are You Lord" 0 -1 32 0 1 0 0
+cue/018 331 "Speak" 0 -1 8 0 1 0 0
+cue/019 400 "Hosting" 1 -1 -1 0 1 0 0
+cue/020 410 "Vid: Who We Are" 0 -1 1 0 1 0 0
+cue/021 411 "Speak" 0 -1 8 0 1 0 0
+cue/022 412 "Mute Band" 0 -1 7 0 1 0 0
+cue/023 420 "Unmute Host" 0 -1 2 0 1 0 0
+cue/024 421 "BG Music" 0 -1 10 0 1 0 0
+cue/025 430 "Vid: Come Together" 0 -1 1 0 1 0 0
+cue/026 431 "Mute Host" 0 -1 3 0 1 0 0
+cue/027 440 "Vid: Message Bum" 0 -1 1 0 1 0 0
+cue/028 500 "Message" 1 -1 -1 0 1 0 0
+cue/029 510 "Unmute Roscoe" 0 -1 4 0 1 0 0
+cue/030 511 "Prayer Track" 0 -1 9 0 1 0 0
+cue/031 600 "Post-Service" 1 -1 -1 0 1 0 0
+cue/032 610 "Vid: Post-Servic" 0 -1 10 0 1 0 0
+cue/033 611 "Mute Roscoe" 0 -1 5 0 1 0 0
 scene/001 "Start" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 17632 224 536870912 0 1
@@ -60,6 +64,7 @@ snippet/025 "Over the Rainbow" 17632 224 536870912 0 1
 snippet/026 "Christ Be Magnif" 17632 224 536870912 0 1
 snippet/027 "What A Beautiful" 17632 224 536870912 0 1
 snippet/028 "Goodness Of God" 17632 224 536870912 0 1
-snippet/029 "God I Look To Yo" 17632 224 536870912 0 1
-snippet/030 "O Praise The Nam" 17632 224 536870912 0 1
-snippet/031 "Do It Again" 17632 224 536870912 0 1
+snippet/029 "Jingle Bell Rock" 17632 224 536870912 0 1
+snippet/030 "My Soul Maginifi" 17632 224 536870912 0 1
+snippet/031 "All Creation Sin" 17632 224 536870912 0 1
+snippet/032 "Great Are You Lo" 17632 224 536870912 0 1
