@@ -1,3 +1,5 @@
 #2.7# "Vid: 0dB" 17632 224 536870912 0 1                                                                                          
-/auxin/05/mix ON   0.0 ON -100 OFF   -oo
-/auxin/06/mix ON   0.0 ON +100 OFF   -oo
+/auxin/01/mix ON   0.0 ON -100 OFF   -oo
+/auxin/02/mix ON   0.0 ON +100 OFF   -oo
+/auxin/03/mix ON   -oo ON -100 OFF   -oo
+/auxin/04/mix ON   -oo ON +100 OFF   -oo
