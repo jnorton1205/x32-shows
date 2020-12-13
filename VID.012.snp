@@ -1,2 +1,2 @@
-#2.7# "Mute Host 2" 128 536870912 0 0 1                                                                                        
-/ch/30/mix/on OFF
+#2.7# "Unmute Host 2" 128 536870912 0 0 1                                                                                      
+/ch/30/mix/on ON

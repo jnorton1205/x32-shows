@@ -1,5 +1,16 @@
-#2.7# "Vid: 0dB" 17632 224 536870912 0 1                                                                                          
-/auxin/01/mix ON   -oo ON -100 OFF   -oo
-/auxin/02/mix ON   -oo ON +100 OFF   -oo
-/auxin/03/mix ON   0.0 ON -100 OFF   -oo
-/auxin/04/mix ON   0.0 ON +100 OFF   -oo
+#2.7# "Great Are You Lord" 17632 224 536870912 0 1                                                                               
+/fx/2 DLY
+/fx/2/source MIX14 MIX14
+/fx/2/par 100 1226 X 1 1 40 10 20k0 97 30 30 20k0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/ch/06/grp %00100000 %000000
+/ch/06/mix/pan +0
+/ch/06/mix/13 ON   0.0 +0 POST
+/ch/06/mix/14 ON   0.0
+/ch/07/grp %01000000 %000000
+/ch/07/mix/pan -35
+/ch/07/mix/13 ON -15.0 +0 POST
+/ch/07/mix/14 ON   -oo
+/ch/08/grp %01000000 %000000
+/ch/08/mix/pan +35
+/ch/08/mix/13 ON -15.0 +0 POST
+/ch/08/mix/14 ON   -oo

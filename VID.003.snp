@@ -1,2 +1,3 @@
-#2.7# "Mute Host" 17632 224 536870912 0 1                                                                                          
-/ch/31/mix OFF
+#2.7# "Unmute Host" 17632 224 536870912 0 1                                                                                          
+/ch/31/mix/fader  +0.0
+/ch/31/mix ON

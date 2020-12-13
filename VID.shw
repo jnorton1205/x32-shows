@@ -37,35 +37,35 @@ cue/033 611 "Mute Roscoe" 0 -1 5 0 1 0 0
 scene/001 "Start" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 0 536870927 0 1
-snippet/002 "Unmute Host" 17632 224 536870912 0 1
-snippet/003 "Mute Host" 17632 224 536870912 0 1
-snippet/004 "Unmute Roscoe" 17632 224 536870912 0 1
-snippet/005 "Mute Roscoe" 17632 224 536870912 0 1
-snippet/006 "Unmute Band" 128 4194303 0 0 1
-snippet/007 "Mute Band" 128 4194303 0 0 1
-snippet/008 "Speak" 17632 224 536870912 0 1
-snippet/009 "Track" 128 786432 0 0 1
-snippet/010 "Vid -10dB" 192 0 15 0 1
-snippet/011 "Unmute Host 2" 128 536870912 0 0 1
-snippet/012 "Mute Host 2" 128 536870912 0 0 1
-snippet/013 "Your Love Awaken" 17632 224 536870912 0 1
-snippet/014 "Graves to Garden" 17632 224 536870912 0 1
-snippet/015 "Unstoppable God" 17632 224 536870912 0 1
-snippet/016 "Death Arrested" 17632 224 536870912 0 1
-snippet/017 "See A Victory" 17632 224 536870912 0 1
-snippet/018 "In the river" 17504 224 0 0 1
-snippet/019 "Raise a Halleluj" 17504 224 0 0 1
-snippet/020 "Way Maker" 17504 224 0 0 1
-snippet/021 "Glorious Day" 17632 224 536870912 0 1
-snippet/022 "Whole Heart" 17632 224 536870912 0 1
-snippet/023 "This Is Amazing" 17632 224 536870912 0 1
-snippet/024 "Rest On Us" 17632 224 536870912 0 1
-snippet/025 "Over the Rainbow" 17632 224 536870912 0 1
-snippet/026 "Christ Be Magnif" 17632 224 536870912 0 1
-snippet/027 "What A Beautiful" 17632 224 536870912 0 1
-snippet/028 "Goodness Of God" 17632 224 536870912 0 1
-snippet/029 "Jingle Bell Rock" 17632 224 536870912 0 1
-snippet/030 "My Soul Maginifi" 17632 224 536870912 0 1
-snippet/031 "All Creation Sin" 17632 224 536870912 0 1
-snippet/032 "Great Are You Lo" 17632 224 536870912 0 1
-snippet/033 "Stream 0 dB" 192 0 15 0 1
+snippet/002 "Stream 0 dB" 192 0 15 0 1
+snippet/003 "Unmute Host" 17632 224 536870912 0 1
+snippet/004 "Mute Host" 17632 224 536870912 0 1
+snippet/005 "Unmute Roscoe" 17632 224 536870912 0 1
+snippet/006 "Mute Roscoe" 17632 224 536870912 0 1
+snippet/007 "Unmute Band" 128 4194303 0 0 1
+snippet/008 "Mute Band" 128 4194303 0 0 1
+snippet/009 "Speak" 17632 224 536870912 0 1
+snippet/010 "Track" 128 786432 0 0 1
+snippet/011 "Vid -10dB" 192 0 15 0 1
+snippet/012 "Unmute Host 2" 128 536870912 0 0 1
+snippet/013 "Mute Host 2" 128 536870912 0 0 1
+snippet/014 "Your Love Awaken" 17632 224 536870912 0 1
+snippet/015 "Graves to Garden" 17632 224 536870912 0 1
+snippet/016 "Unstoppable God" 17632 224 536870912 0 1
+snippet/017 "Death Arrested" 17632 224 536870912 0 1
+snippet/018 "See A Victory" 17632 224 536870912 0 1
+snippet/019 "In the river" 17504 224 0 0 1
+snippet/020 "Raise a Halleluj" 17504 224 0 0 1
+snippet/021 "Way Maker" 17504 224 0 0 1
+snippet/022 "Glorious Day" 17632 224 536870912 0 1
+snippet/023 "Whole Heart" 17632 224 536870912 0 1
+snippet/024 "This Is Amazing" 17632 224 536870912 0 1
+snippet/025 "Rest On Us" 17632 224 536870912 0 1
+snippet/026 "Over the Rainbow" 17632 224 536870912 0 1
+snippet/027 "Christ Be Magnif" 17632 224 536870912 0 1
+snippet/028 "What A Beautiful" 17632 224 536870912 0 1
+snippet/029 "Goodness Of God" 17632 224 536870912 0 1
+snippet/030 "Jingle Bell Rock" 17632 224 536870912 0 1
+snippet/031 "My Soul Maginifi" 17632 224 536870912 0 1
+snippet/032 "All Creation Sin" 17632 224 536870912 0 1
+snippet/033 "Great Are You Lo" 17632 224 536870912 0 1

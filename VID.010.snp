@@ -1,5 +1,3 @@
-#2.7# "Vid: -10dB" 17632 224 536870912 0 1                                                                                          
-/auxin/01/mix ON -10.0 ON -100 OFF   -oo
-/auxin/02/mix ON -10.0 ON +100 OFF   -oo
-/auxin/03/mix ON   -oo ON -100 OFF   -oo
-/auxin/04/mix ON   -oo ON +100 OFF   -oo
+#2.7# "Track" 128 786432 0 0 1                                                                                                 
+/ch/19/mix/on ON
+/ch/20/mix/on ON

@@ -1,3 +1,2 @@
-#2.7# "Unmute Roscoe" 17632 224 536870912 0 1                                                                                          
-/ch/32/mix/fader  +0.0
-/ch/32/mix ON
+#2.7# "Mute Host" 17632 224 536870912 0 1                                                                                          
+/ch/31/mix OFF
