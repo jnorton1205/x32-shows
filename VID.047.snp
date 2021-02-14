@@ -1,4 +1,4 @@
-#2.7# "More Than Words" 17632 224 536870912 0 1                                                                               
+#2.7# "Make You Feel My" 17632 224 536870912 0 1                                                                               
 /fx/2 DLY
 /fx/2/source MIX14 MIX14
 /fx/2/par 100 659 X 1 1 40 10 20k0 97 30 30 20k0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -14,3 +14,8 @@
 /ch/08/mix/pan +0
 /ch/08/mix/13 ON   0.0 +0 POST
 /ch/08/mix/14 ON   0.0
+/ch/03/mix/on ON
+/ch/07/mix/on ON
+/ch/17/mix/on ON
+/ch/19/mix/on ON
+/ch/20/mix/on ON
