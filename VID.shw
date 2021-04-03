@@ -1,42 +1,48 @@
 #4.0#
 show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
-cue/001 110 "Vid: Pre-Service" 0 -1 11 0 1 0 0
-cue/002 111 "Vid: Pre-Service" 1 -1 2 0 1 0 0
-cue/003 120 "Vid: Newly Wed Game" 0 -1 1 0 1 0 0
-cue/004 121 "Speak" 0 -1 9 0 1 0 0
-cue/005 130 "Make You Feel My Love" 0 -1 47 0 1 0 0
-cue/006 200 "Welcome" 1 -1 -1 0 1 0 0
-cue/007 210 "Unmute Host" 0 -1 3 0 1 0 0
-cue/008 211 "BG Music" 0 -1 11 0 1 0 0
-cue/009 212 "Mute Band" 0 -1 8 0 1 0 0
-cue/010 300 "Worship" 1 -1 -1 0 1 0 0
-cue/011 301 "Speak" 0 -1 9 0 1 0 0
-cue/012 302 "Unmute Band" 0 -1 7 0 1 0 0
-cue/013 303 "Mute Host" 0 -1 4 0 1 0 0
-cue/014 310 "Reckless Love" 0 -1 48 0 1 0 0
-cue/015 311 "Speak" 0 -1 9 0 1 0 0
-cue/016 320 "King Of My Heart" 0 -1 40 0 1 0 0
-cue/018 400 "Hosting" 1 -1 -1 0 1 0 0
-cue/019 410 "Vid: Welcome To Church" 0 -1 1 0 1 0 0
-cue/020 411 "Speak" 0 -1 9 0 1 0 0
-cue/021 412 "Mute Band" 0 -1 8 0 1 0 0
-cue/022 420 "Unmute Host" 0 -1 3 0 1 0 0
-cue/023 421 "BG Music" 0 -1 11 0 1 0 0
-cue/024 431 "Mute Host" 0 -1 4 0 1 0 0
-cue/025 430 "Vid: Message Bumper" 0 -1 1 0 1 0 0
-cue/026 440 "Vid: Dating" 0 -1 1 0 1 0 0
-cue/027 500 "Message" 1 -1 -1 0 1 0 0
-cue/028 510 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/029 511 "Prayer Track" 0 -1 10 0 1 0 0
-cue/030 600 "Post-Service" 1 -1 -1 0 1 0 0
-cue/031 610 "Vid: Post-Servic" 0 -1 11 0 1 0 0
-cue/032 611 "Vid: Post-Servic" 1 -1 2 0 1 0 0
-cue/033 612 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/001 110 "Vid: Pre-Service" 0 -1 2 0 1 0 0
+cue/002 111 "Speak" 0 -1 9 0 1 0 0
+cue/003 112 "Unmute Band" 0 -1 7 0 1 0 0
+cue/004 120 "Agnus Dei / King of Kings" 0 -1 47 0 1 0 0
+cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
+cue/006 210 "Unmute Host" 0 -1 3 0 1 0 0
+cue/007 211 "BG Music" 0 -1 11 0 1 0 0
+cue/008 212 "Mute Band" 0 -1 8 0 1 0 0
+cue/009 300 "Worship" 1 -1 -1 0 1 0 0
+cue/010 301 "Speak" 0 -1 9 0 1 0 0
+cue/011 302 "Unmute Band" 0 -1 7 0 1 0 0
+cue/012 303 "Mute Host" 0 -1 4 0 1 0 0
+cue/013 310 "Glorious Day" 0 -1 22 0 1 0 0
+cue/014 311 "Speak" 0 -1 9 0 1 0 0
+cue/015 320 "Graves Into Gardens" 0 -1 15 0 1 0 0
+cue/016 400 "Hosting" 1 -1 -1 0 1 0 0
+cue/017 410 "Vid: Next Series Bumper" 0 -1 1 0 1 0 0
+cue/018 411 "Speak" 0 -1 9 0 1 0 0
+cue/019 412 "Mute Band" 0 -1 8 0 1 0 0
+cue/020 420 "Unmute Host" 0 -1 3 0 1 0 0
+cue/021 500 "Communion" 1 -1 -1 0 1 0 0
+cue/022 510 "How Deep the Father's" 0 -1 50 0 1 0 0
+cue/023 511 "Mute Host" 0 -1 4 0 1 0 0
+cue/024 520 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/025 521 "Mute Band" 0 -1 8 0 1 0 0
+cue/026 530 "Vid: Message Bumper" 0 -1 1 0 1 0 0
+cue/027 531 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/028 600 "Message" 1 -1 -1 0 1 0 0
+cue/029 610 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/030 611 "Prayer Track" 0 -1 10 0 1 0 0
+cue/032 700 "Post Song" 1 -1 -1 0 1 0 0
+cue/032 701 "Speak" 0 -1 9 0 1 0 0
+cue/033 702 "Unmute Band" 0 -1 7 0 1 0 0
+cue/034 703 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/035 710 "Because He Lives" 0 -1 51 0 1 0 0
+cue/036 800 "Post-Service" 1 -1 -1 0 1 0 0
+cue/037 811 "Vid: Post-Servic" 0 -1 2 0 1 0 0
+cue/038 812 "Mute Band" 0 -1 8 0 1 0 0
 scene/001 "Start" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 0 536870927 0 1
-snippet/002 "Stream 0 dB" 192 0 15 0 1
+snippet/002 "Pre / Post Music" 192 0 15 0 1
 snippet/003 "Unmute Host" 17632 224 536870912 0 1
 snippet/004 "Mute Host" 17632 224 536870912 0 1
 snippet/005 "Unmute Roscoe" 17632 224 536870912 0 1
@@ -45,7 +51,7 @@ snippet/007 "Unmute Band" 128 4194303 0 0 1
 snippet/008 "Mute Band" 128 4194303 0 0 1
 snippet/009 "Speak" 17632 224 536870912 0 1
 snippet/010 "Track" 128 786432 0 0 1
-snippet/011 "Vid -10dB" 192 0 15 0 1
+snippet/011 "Background Music" 192 0 15 0 1
 snippet/012 "Unmute Host 2" 128 536870912 0 0 1
 snippet/013 "Mute Host 2" 128 536870912 0 0 1
 snippet/014 "Your Love Awaken" 17632 224 536870912 0 1
@@ -81,6 +87,8 @@ snippet/043 "Wou You Say I Am" 17632 224 536870912 0 1
 snippet/044 "No Longer Slaves" 17632 224 536870912 0 1
 snippet/045 "Rattle" 17632 224 536870912 0 1
 snippet/046 "God I Look To You" 17632 224 536870912 0 1
-snippet/047 "Make You Feel My" 17632 224 536870912 0 1
+snippet/047 "Agnus Dei / King " 17632 224 536870912 0 1
 snippet/048 "Love Has A Name" 17632 224 536870912 0 1
 snippet/049 "Reckless Love" 17632 224 536870912 0 1
+snippet/050 "How Deep The Fath" 17632 224 536870912 0 1
+snippet/051 "Because He Lives" 17632 224 536870912 0 1
