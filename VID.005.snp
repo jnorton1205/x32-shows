@@ -1,3 +1,7 @@
-#2.7# "Unmute Roscoe" 17632 224 536870912 0 1                                                                                          
-/ch/32/mix/fader  +0.0
-/ch/32/mix ON
+#4.0# "Unmute Roscoe" 224 -1610612736 0 32768 1                                                                                
+/ch/30/mix/fader  -6.2
+/ch/30/mix/on ON
+/ch/32/mix/fader   0.0
+/ch/32/mix/on ON
+/dca/8/fader -10.0
+/dca/8/on ON

@@ -1,7 +1,19 @@
 #4.0# "Background Music" 192 201326592 15 0 1                                                                                  
-/ch/27/mix ON -20.0 ON -100 OFF   -oo
-/ch/28/mix ON -20.0 ON +100 OFF   -oo
-/auxin/01/mix ON -20.0 ON -100 OFF   -oo
-/auxin/02/mix ON -20.0 ON +100 OFF   -oo
-/auxin/03/mix ON   -oo ON -100 OFF   -oo
-/auxin/04/mix ON   -oo ON +100 OFF   -oo
+/ch/27/mix/fader -20.0
+/ch/27/mix/pan -100
+/ch/27/mix/on ON
+/ch/28/mix/fader -20.0
+/ch/28/mix/pan +100
+/ch/28/mix/on ON
+/auxin/01/mix/fader -20.0
+/auxin/01/mix/pan -100
+/auxin/01/mix/on ON
+/auxin/02/mix/fader -20.0
+/auxin/02/mix/pan +100
+/auxin/02/mix/on ON
+/auxin/03/mix/fader   -oo
+/auxin/03/mix/pan -100
+/auxin/03/mix/on ON
+/auxin/04/mix/fader   -oo
+/auxin/04/mix/pan +100
+/auxin/04/mix/on ON

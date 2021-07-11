@@ -1,4 +1,4 @@
-#2.7# "Unmute Band" 128 4194303 0 0 1                                                                                          
+#4.0# "Unmute Band" 128 33554431 0 0 1                                                                                         
 /ch/01/mix/on ON
 /ch/02/mix/on ON
 /ch/03/mix/on ON
@@ -21,3 +21,6 @@
 /ch/20/mix/on ON
 /ch/21/mix/on ON
 /ch/22/mix/on ON
+/ch/23/mix/on ON
+/ch/24/mix/on ON
+/ch/25/mix/on ON
