@@ -1,5 +1,6 @@
 #4.0# "Unmute Host" 224 1610612736 0 0 1                                                                                       
-/ch/30/mix/fader  -5.0
+/ch/30/grp %00000000 %000000
+/ch/30/mix/fader   0.0
 /ch/30/mix/on ON
 /ch/31/mix/fader   0.0
 /ch/31/mix/on ON
