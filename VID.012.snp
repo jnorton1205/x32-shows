@@ -1,2 +1,3 @@
 #2.7# "Unmute Host 2" 128 536870912 0 0 1                                                                                      
-/ch/30/mix/on ON
+/ch/29/mix/fader   0.0
+/ch/29/mix/on ON
