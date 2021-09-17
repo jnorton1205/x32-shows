@@ -5,7 +5,6 @@
 /ch/06/grp %00100000 %000000
 /ch/06/mix/fader   0.0
 /ch/06/mix/pan +0
-/ch/06/mix/on ON
 /ch/06/mix/13 ON   0.0 +0 POST 0
 /ch/06/mix/14 ON   0.0
 /ch/06/mix/15 ON   -oo +0 POST 0
@@ -13,7 +12,6 @@
 /ch/07/grp %01000000 %000000
 /ch/07/mix/fader   0.0
 /ch/07/mix/pan +0
-/ch/07/mix/on ON
 /ch/07/mix/13 ON  -0.3 +0 POST 0
 /ch/07/mix/14 ON   0.0
 /ch/07/mix/15 ON   -oo +0 POST 0
@@ -21,7 +19,6 @@
 /ch/08/grp %01000000 %000000
 /ch/08/mix/fader   0.0
 /ch/08/mix/pan +36
-/ch/08/mix/on ON
 /ch/08/mix/13 ON -15.0 +0 POST 0
 /ch/08/mix/14 ON   -oo
 /ch/08/mix/15 ON   -oo +0 POST 0

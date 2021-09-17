@@ -4,7 +4,7 @@ cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 110 "Vid: Pre-Service" 0 -1 2 0 1 0 0
 cue/002 111 "Speak" 0 -1 9 0 1 0 0
 cue/003 112 "Unmute Band" 0 -1 7 0 1 0 0
-cue/004 120 "My Testimony" 0 -1 68 0 1 0 0
+cue/004 120 "House Of The Lord" 0 -1 62 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 210 "Unmute Host" 0 -1 3 0 1 0 0
 cue/007 211 "BG Music" 0 -1 11 0 1 0 0
@@ -13,23 +13,31 @@ cue/009 300 "Worship" 1 -1 -1 0 1 0 0
 cue/010 301 "Speak" 0 -1 9 0 1 0 0
 cue/011 302 "Unmute Band" 0 -1 7 0 1 0 0
 cue/012 303 "Mute Host" 0 -1 4 0 1 0 0
-cue/013 310 "House Of The Lor" 0 -1 62 0 1 0 0
+cue/013 310 "You Make Me Brave" 0 -1 69 0 1 0 0
 cue/014 311 "Speak" 1 -1 9 0 1 0 0
-cue/015 320 "Graves Into Gardens" 0 -1 15 0 1 0 0
+cue/015 320 "Who You Say I Am" 0 -1 54 0 1 0 0
 cue/016 321 "Speak" 0 -1 9 0 1 0 0
-cue/017 330 "Faithful Now" 0 -1 67 0 1 0 0
-cue/018 400 "Hosting" 1 -1 -1 0 1 0 0
-cue/019 410 "Vid: Message Bum" 0 -1 1 0 1 0 0
-cue/020 411 "Speak" 0 -1 9 0 1 0 0
-cue/021 412 "Mute Band" 0 -1 8 0 1 0 0
-cue/022 600 "Message" 1 -1 -1 0 1 0 0
-cue/023 610 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/024 620 "Unmute Guest" 0 -1 12 0 1 0 0
-cue/025 621 "Prayer Track" 0 -1 2 0 1 0 0
-cue/026 622 "Mute Guest" 0 -1 13 0 1 0 0
-cue/027 900 "Post-Service" 1 -1 -1 0 1 0 0
-cue/028 901 "Vid: Post-Servic" 0 -1 2 0 1 0 0
-cue/029 902 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/017 330 "It Is Well" 0 -1 41 0 1 0 0
+cue/018 600 "Message" 1 -1 -1 0 1 0 0
+cue/019 610 "Vid: Message Bum" 0 -1 1 0 1 0 0
+cue/020 611 "Speak" 0 -1 9 0 1 0 0
+cue/021 612 "Mute Band" 0 -1 8 0 1 0 0
+cue/022 620 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/023 621 "Prayer Track" 0 -1 2 0 1 0 0
+cue/024 700 "Worship 2" 1 -1 -1 0 1 0 0
+cue/025 701 "Speak" 0 -1 9 0 1 0 0
+cue/026 702 "Unmute Band" 0 -1 7 0 1 0 0
+cue/027 703 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/028 710 "His Eye Is On The Sparrow" 0 -1 70 0 1 0 0
+cue/029 711 "Speak" 1 -1 9 0 1 0 0
+cue/030 720 "Faithful Now" 0 -1 67 0 1 0 0
+cue/031 721 "Speak" 0 -1 9 0 1 0 0
+cue/032 810 "Unmute Host" 0 -1 3 0 1 0 0
+cue/033 811 "BG Music" 0 -1 11 0 1 0 0
+cue/034 812 "Mute Band" 0 -1 8 0 1 0 0
+cue/035 813 "Mute Host" 0 -1 4 0 1 0 0
+cue/036 900 "Post-Service" 1 -1 -1 0 1 0 0
+cue/037 901 "Vid: Post-Servic" 0 -1 2 0 1 0 0
 scene/001 "Start" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 201326592 15 0 1
@@ -100,3 +108,5 @@ snippet/065 "Battlecry" 17632 224 0 0 1
 snippet/066 "Drenched In Love" 17632 224 0 0 1
 snippet/067 "Faithful Now" 17632 224 0 0 1
 snippet/068 "My Testimony" 17632 224 0 0 1
+snippet/069 "You Make Me Brave" 17632 224 0 0 1
+snippet/069 "His Eye Is On The Sparrow" 17632 224 0 0 1
