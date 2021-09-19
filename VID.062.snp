@@ -6,15 +6,15 @@
 /ch/06/mix/pan +0
 /ch/06/mix/13 ON   0.0 +0 POST 0
 /ch/06/mix/14 ON   -oo
-/ch/07/grp %00100000 %000000
+/ch/07/grp %01000000 %000000
 /ch/07/mix/pan +0
 /ch/07/mix/13 ON   0.0 +0 POST 0
-/ch/07/mix/14 ON  +0.0
+/ch/07/mix/14 ON   -oo
 /ch/08/grp %01000000 %000000
 /ch/08/mix/pan +0
 /ch/08/mix/13 ON   0.0 +0 POST 0
 /ch/08/mix/14 ON   -oo
-/ch/16/grp %01000000 %000000
+/ch/16/grp %00100000 %000000
 /ch/16/mix/pan +0
 /ch/16/mix/13 ON   0.0 +0 POST 0
-/ch/16/mix/14 ON   -oo
+/ch/16/mix/14 ON  +0.0
