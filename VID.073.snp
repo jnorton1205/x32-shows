@@ -1,0 +1,20 @@
+#4.0# "All Hail King Jesus" 17632 224 0 0 1                                                                                       
+/fx/2 DLY
+/fx/2/source MIX14 MIX14
+/fx/2/par 100 741 X 1 1 40 10 20k0 97 30 30 20k0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/ch/05/grp %01000000 %000000
+/ch/05/mix/pan +0
+/ch/05/mix/13 ON   0.0 +0 POST 0
+/ch/05/mix/14 ON   -oo
+/ch/06/grp %01000000 %000000
+/ch/06/mix/pan +0
+/ch/06/mix/13 ON   0.0 +0 POST 0
+/ch/06/mix/14 ON   -oo
+/ch/07/grp %00100000 %000000
+/ch/07/mix/pan +0
+/ch/07/mix/13 ON   0.0 +0 POST
+/ch/07/mix/14 ON   0.0
+/ch/08/grp %01000000 %000000
+/ch/08/mix/pan +0
+/ch/08/mix/13 ON   0.0 +0 POST 0
+/ch/08/mix/14 ON   -oo
