@@ -1,7 +1,5 @@
 #4.0# "Pre / Post Music" 192 201326592 15 0 1                                                                                  
 /ch/27/mix ON -10.0 ON -100 OFF   -oo
 /ch/28/mix ON -10.0 ON +100 OFF   -oo
-/auxin/01/mix ON -10.0 ON -100 OFF   -oo
-/auxin/02/mix ON -10.0 ON +100 OFF   -oo
 /auxin/03/mix ON   -oo ON -100 OFF   -oo
 /auxin/04/mix ON   -oo ON +100 OFF   -oo

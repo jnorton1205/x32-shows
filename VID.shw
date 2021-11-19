@@ -4,9 +4,9 @@ cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 110 "Vid: Pre-Service" 0 -1 2 0 1 0 0
 cue/002 111 "Speak" 0 -1 9 0 1 0 0
 cue/003 112 "Unmute Band" 0 -1 7 0 1 0 0
-cue/004 120 "All Hail King Jesus" 0 -1 73 0 1 0 0
+cue/004 120 "Whole Heart" 0 -1 23 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
-cue/006 210 "Vid: Veteran's Day" 0 -1 1 0 1 0 0
+cue/006 210 "Vid: Veteran's D" 0 -1 1 0 1 0 0
 cue/007 211 "Mute Band" 0 -1 8 0 1 0 0
 cue/008 220 "Unmute Host" 0 -1 3 0 1 0 0
 cue/009 221 "BG Music" 0 -1 11 0 1 0 0
@@ -14,31 +14,38 @@ cue/010 300 "Worship" 1 -1 -1 0 1 0 0
 cue/011 301 "Speak" 0 -1 9 0 1 0 0
 cue/012 302 "Unmute Band" 0 -1 7 0 1 0 0
 cue/013 303 "Mute Host" 0 -1 4 0 1 0 0
-cue/014 310 "Glorious Day" 0 -1 22 0 1 0 0
+cue/014 310 "Raise A Hallelujah" 0 -1 20 0 1 0 0
 cue/015 311 "Speak" 0 -1 9 0 1 0 0
-cue/016 320 "Love Has A Name" 0 -1 48 0 1 0 0
-cue/017 321 "Speak" 0 -1 9 0 1 0 0
-cue/018 330 "Build My Life" 0 -1 74 0 1 0 0
-cue/019 400 "Hosting" 1 -1 -1 0 1 0 0
-cue/020 410 "Vid: Trick Or Treat" 0 -1 1 0 1 0 0
-cue/021 411 "Speak" 0 -1 9 0 1 0 0
-cue/022 412 "Mute Band" 0 -1 8 0 1 0 0
-cue/023 420 "Unmute Host" 0 -1 3 0 1 0 0
-cue/024 421 "BG Music" 0 -1 11 0 1 0 0
-cue/025 422 "Mute Host" 0 -1 4 0 1 0 0
-cue/026 430 "Vid: Message Bum" 0 -1 1 0 1 0 0
-cue/027 600 "Message" 1 -1 -1 0 1 0 0
-cue/028 610 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/029 611 "Prayer Track" 0 -1 10 0 1 0 0
-cue/030 620 "Vid: Post-Servic" 0 -1 2 0 1 0 0
-cue/031 900 "Post-Service" 1 -1 -1 0 1 0 0
-cue/032 901 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/016 320 "Who You Say I Am" 0 -1 54 0 1 0 0
+cue/017 400 "Hosting" 1 -1 -1 0 1 0 0
+cue/018 410 "Vid: Picture Slides" 0 -1 1 0 1 0 0
+cue/019 411 "Speak" 0 -1 9 0 1 0 0
+cue/020 412 "Mute Band" 0 -1 8 0 1 0 0
+cue/021 420 "Unmute Host" 0 -1 3 0 1 0 0
+cue/022 421 "BG Music" 0 -1 11 0 1 0 0
+cue/023 422 "Mute Host" 0 -1 4 0 1 0 0
+cue/024 430 "Vid: Message Bum" 0 -1 1 0 1 0 0
+cue/025 600 "Message" 1 -1 -1 0 1 0 0
+cue/026 610 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/027 611 "Prayer Track" 0 -1 11 0 1 0 0
+cue/028 700 "Worship" 1 -1 -1 0 1 0 0
+cue/029 701 "Speak" 0 -1 9 0 1 0 0
+cue/030 702 "Unmute Band" 0 -1 7 0 1 0 0
+cue/031 703 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/032 710 "Drenched In Love" 0 -1 66 0 1 0 0
+cue/033 711 "Speak" 0 -1 9 0 1 0 0
+cue/034 800 "Baptism" 1 -1 -1 0 1 0 0
+cue/035 810 "Unmute Baptism" 0 -1 12 0 1 0 0
+cue/036 811 "Mute Band" 0 -1 8 0 1 0 0
+cue/037 812 "Mute Baptism" 0 -1 13 0 1 0 0
+cue/038 820 "Vid: Post-Servic" 0 -1 2 0 1 0 0
+cue/039 900 "Post-Service" 1 -1 -1 0 1 0 0
 scene/001 "Start" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 201326592 15 0 1
 snippet/002 "Pre / Post Music" 192 201326592 15 0 1
 snippet/003 "Unmute Host" 224 1610612736 0 0 1
-snippet/004 "Mute Host" 224 1610612736 0 0 1
+snippet/004 "Mute Host" 224 1879048192 0 0 1
 snippet/005 "Unmute Roscoe" 128 -1610612736 0 0 1
 snippet/006 "Mute Roscoe" 224 -1610612736 0 0 1
 snippet/007 "Unmute Band" 128 33554431 0 0 1
@@ -56,7 +63,7 @@ snippet/018 "See A Victory" 17632 224 536870912 0 1
 snippet/019 "In the river" 17504 224 0 0 1
 snippet/020 "Raise a Halleluj" 17504 224 0 0 1
 snippet/021 "Way Maker" 17504 32992 0 0 1
-snippet/022 "Glorious Day" 17632 224 536870912 0 1
+snippet/022 "Glorious Day" 17632 240 536870912 0 1
 snippet/023 "Whole Heart" 17632 224 536870912 0 1
 snippet/024 "This Is Amazing" 17632 224 536870912 0 1
 snippet/025 "Rest On Us" 17632 224 536870912 0 1
@@ -82,7 +89,7 @@ snippet/044 "No Longer Slaves" 17504 224 0 0 1
 snippet/045 "Rattle" 17632 224 536870912 0 1
 snippet/046 "God I Look To Yo" 17632 224 536870912 0 1
 snippet/047 "Agnus Dei / King" 17632 224 536870912 0 1
-snippet/048 "Love Has A Name" 17632 224 536870912 0 1
+snippet/048 "Love Has A Name" 17568 240 536870912 0 1
 snippet/049 "Reckless Love" 17632 224 536870912 0 1
 snippet/050 "How Deep The Fat" 17632 224 536870912 0 1
 snippet/051 "Because He Lives" 17632 224 536870912 0 1
@@ -107,5 +114,5 @@ snippet/069 "Blessed Assuranc" 17632 224 0 0 1
 snippet/070 "His Eye Is On Th" 192 33554431 0 0 1
 snippet/071 "Ain't No Grave" 192 33554431 0 0 1
 snippet/072 "Battle Belongs" 192 33554431 0 0 1
-snippet/073 "All Hail King Jesus" 192 33554431 0 0 1
+snippet/073 "All Hail King Je" 16928 240 0 0 1
 snippet/074 "Build My Life" 192 33554431 0 0 1
