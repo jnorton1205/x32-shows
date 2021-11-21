@@ -4,45 +4,34 @@ cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 110 "Vid: Pre-Service" 0 -1 2 0 1 0 0
 cue/002 111 "Speak" 0 -1 9 0 1 0 0
 cue/003 112 "Unmute Band" 0 -1 7 0 1 0 0
-cue/004 120 "Promises" 0 -1 75 0 1 0 0
+cue/004 120 "Back To Life" 0 -1 78 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
-cue/006 210 "Video" 0 -1 1 0 1 0 0
-cue/007 211 "Mute Band" 0 -1 8 0 1 0 0
-cue/008 220 "Unmute Host" 0 -1 3 0 1 0 0
-cue/009 221 "BG Music" 0 -1 11 0 1 0 0
-cue/010 300 "Worship" 1 -1 -1 0 1 0 0
-cue/011 301 "Speak" 0 -1 9 0 1 0 0
-cue/012 302 "Unmute Band" 0 -1 7 0 1 0 0
-cue/013 303 "Mute Host" 0 -1 4 0 1 0 0
-cue/014 310 "O Praise The Name" 0 -1 76 0 1 0 0
-cue/015 311 "Speak" 0 -1 9 0 1 0 0
-cue/016 320 "Graves Into Gardens" 0 -1 15 0 1 0 0
-cue/017 321 "Speak" 0 -1 9 0 1 0 0
-cue/018 330 "Great Are You Lord" 0 -1 33 0 1 0 0
-cue/019 331 "Speak" 0 -1 9 0 1 0 0
-cue/020 340 "All Hail King Jesus" 0 -1 73 0 1 0 0
-cue/021 400 "Hosting" 1 -1 -1 0 1 0 0
-cue/022 410 "Vid: Logo Stinger" 0 -1 1 0 1 0 0
-cue/023 411 "Speak" 0 -1 9 0 1 0 0
-cue/024 412 "Mute Band" 0 -1 8 0 1 0 0
-cue/025 600 "Message" 1 -1 -1 0 1 0 0
-cue/026 610 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/027 611 "Prayer Track" 0 -1 11 0 1 0 0
-cue/028 700 "Worship" 1 -1 -1 0 1 0 0
-cue/029 701 "Speak" 0 -1 9 0 1 0 0
-cue/030 702 "Unmute Band" 0 -1 7 0 1 0 0
-cue/031 703 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/032 710 "For The One" 0 -1 77 0 1 0 0
-cue/033 711 "Speak" 0 -1 9 0 1 0 0
-cue/034 720 "Love Has A Name" 0 -1 48 0 1 0 0
-cue/035 721 "Speak" 0 -1 9 0 1 0 0
-cue/036 800 "Closing" 1 -1 -1 0 1 0 0
-cue/037 801 "BG Music" 0 -1 11 0 1 0 0
-cue/038 820 "Unmute Host" 0 -1 3 0 1 0 0
-cue/039 821 "Mute Band" 0 -1 8 0 1 0 0
-cue/040 822 "Mute Host" 0 -1 4 0 1 0 0
-cue/041 830 "Vid: Post-Servic" 0 -1 2 0 1 0 0
-cue/042 900 "Post-Service" 1 -1 -1 0 1 0 0
+cue/007 210 "Unmute Host" 0 -1 3 0 1 0 0
+cue/008 211 "BG Music" 0 -1 11 0 1 0 0
+cue/006 212 "Mute Band" 0 -1 8 0 1 0 0
+cue/009 300 "Worship" 1 -1 -1 0 1 0 0
+cue/010 301 "Speak" 0 -1 9 0 1 0 0
+cue/011 302 "Unmute Band" 0 -1 7 0 1 0 0
+cue/012 303 "Mute Host" 0 -1 4 0 1 0 0
+cue/013 310 "Graves Into Gardens" 0 -1 15 0 1 0 0
+cue/014 311 "Speak" 0 -1 9 0 1 0 0
+cue/015 320 "Way Maker" 0 -1 21 0 1 0 0
+cue/016 321 "Speak" 0 -1 9 0 1 0 0
+cue/017 330 "Great Are You Lord" 0 -1 33 0 1 0 0
+cue/018 400 "Hosting" 1 -1 -1 0 1 0 0
+cue/019 410 "Vid: New Series Bumper" 0 -1 1 0 1 0 0
+cue/020 411 "Speak" 0 -1 9 0 1 0 0
+cue/021 412 "Mute Band" 0 -1 8 0 1 0 0
+cue/022 420 "Unmute Host" 0 -1 3 0 1 0 0
+cue/023 421 "BG Music" 0 -1 11 0 1 0 0
+cue/024 430 "Mute Host" 0 -1 4 0 1 0 0
+cue/025 440 "Vid: Message Bumper" 0 -1 1 0 1 0 0
+cue/026 600 "Message" 1 -1 -1 0 1 0 0
+cue/027 610 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/028 611 "Prayer Track" 0 -1 11 0 1 0 0
+cue/029 900 "Post-Service" 1 -1 -1 0 1 0 0
+cue/030 901 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/031 910 "Vid: Post-Servic" 0 -1 2 0 1 0 0
 scene/001 "Start" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 201326592 15 0 1
@@ -122,3 +111,4 @@ snippet/074 "Build My Life" 192 33554431 0 0 1
 snippet/075 "Promises" 192 33554431 0 0 1
 snippet/076 "O Praise The Name" 192 33554431 0 0 1
 snippet/077 "For The One" 192 33554431 0 0 1
+snippet/078 "Back To Life" 192 33554431 0 0 1
