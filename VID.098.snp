@@ -1,0 +1,15 @@
+#4.0# "No EQ" 4 0 0 12 1                                                                                                           
+/mtx/03/eq OFF
+/mtx/03/eq/1 LShv 266.7 -15.0 2.0
+/mtx/03/eq/2 PEQ 158.9 +0.00 2.0
+/mtx/03/eq/3 PEQ 496.6 +0.00 2.0
+/mtx/03/eq/4 PEQ 1k97 +0.00 2.0
+/mtx/03/eq/5 PEQ 5k02 +0.00 2.0
+/mtx/03/eq/6 HShv 17k41 -15.0 2.0
+/mtx/04/eq OFF
+/mtx/04/eq/1 LShv 266.7 -15.0 2.0
+/mtx/04/eq/2 PEQ 158.9 +0.00 2.0
+/mtx/04/eq/3 PEQ 496.6 +0.00 2.0
+/mtx/04/eq/4 PEQ 1k97 +0.00 2.0
+/mtx/04/eq/5 PEQ 5k02 +0.00 2.0
+/mtx/04/eq/6 HShv 17k41 -15.0 2.0
