@@ -13,11 +13,11 @@
 /config/talk/B -12.0 OFF ON %000000000000000000
 /config/osc  -3.5 502.4 632.5 F1 SINE 19
 /config/userrout/out 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-/config/userrout/in 61 62 163 164 165 166 63 64 57 58 3 58 59 60 63 64 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/config/userrout/in 95 96 163 164 165 166 63 64 57 58 3 58 59 60 63 64 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /config/routing REC
-/config/routing/IN A17-24 UIN9-16 A33-40 A41-48 UIN1-6
-/config/routing/AES50A OUT1-8 OUT9-16 OUT1-8 OUT9-16 P161-8 P169-16
-/config/routing/AES50B OUT1-8 OUT9-16 OUT1-8 OUT9-16 P161-8 P169-16
+/config/routing/IN A1-8 A9-16 A17-24 A25-32 UIN1-2
+/config/routing/AES50A B1-8 B9-16 OUT1-8 OUT9-16 P161-8 P169-16
+/config/routing/AES50B A1-8 A9-16 A17-24 A25-32 AN1-8 AN9-16
 /config/routing/CARD AN1-8 AN9-16 A1-8 A9-16
 /config/routing/OUT OUT1-4 OUT5-8 OUT9-12 OUT13-16
 /config/routing/PLAY CARD1-8 CARD9-16 CARD17-24 CARD25-32 AUX1-4
@@ -34,7 +34,7 @@
 /config/amixenable OFF OFF
 /config/dp48 %0000 0 AESA
 /config/dp48/assign 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-/config/dp48/link 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/config/dp48/link 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0
 /config/dp48/grpname "" "" "" "" "" "" "" "" "" "" "" ""
 /ch/01/config "Kick" 2 YE 1
 /ch/01/delay OFF   0.3
@@ -1906,37 +1906,37 @@
 /fx/7/par -2 40 0.0 24 58 -5.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /fx/8 SUB
 /fx/8/par ON LO 36 30 0 ON HI 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-/outputs/main/01 51 IN/LC OFF
+/outputs/main/01 22 POST OFF
 /outputs/main/01/delay ON  11.5
-/outputs/main/02 21 POST OFF
+/outputs/main/02 23 POST OFF
 /outputs/main/02/delay ON  10.0
-/outputs/main/03 6 IN/LC OFF
+/outputs/main/03 0 IN/LC OFF
 /outputs/main/03/delay OFF   0.3
-/outputs/main/04 7 POST OFF
+/outputs/main/04 0 POST OFF
 /outputs/main/04/delay OFF   0.3
-/outputs/main/05 8 POST OFF
+/outputs/main/05 0 POST OFF
 /outputs/main/05/delay OFF   0.3
-/outputs/main/06 9 POST OFF
+/outputs/main/06 0 POST OFF
 /outputs/main/06/delay OFF   0.3
 /outputs/main/07 20 POST OFF
 /outputs/main/07/delay OFF   0.3
 /outputs/main/08 21 POST OFF
 /outputs/main/08/delay OFF   0.3
-/outputs/main/09 12 POST OFF
+/outputs/main/09 0 POST OFF
 /outputs/main/09/delay OFF   0.3
-/outputs/main/10 13 POST OFF
+/outputs/main/10 0 POST OFF
 /outputs/main/10/delay OFF   0.3
-/outputs/main/11 14 POST OFF
+/outputs/main/11 0 POST OFF
 /outputs/main/11/delay OFF   0.3
-/outputs/main/12 15 POST OFF
+/outputs/main/12 0 POST OFF
 /outputs/main/12/delay OFF   0.3
-/outputs/main/13 16 POST OFF
+/outputs/main/13 0 POST OFF
 /outputs/main/13/delay OFF   0.3
-/outputs/main/14 17 POST OFF
+/outputs/main/14 0 POST OFF
 /outputs/main/14/delay OFF   0.3
-/outputs/main/15 18 POST OFF
+/outputs/main/15 0 POST OFF
 /outputs/main/15/delay OFF   0.3
-/outputs/main/16 19 POST OFF
+/outputs/main/16 0 POST OFF
 /outputs/main/16/delay OFF   0.3
 /outputs/aux/01 40 POST OFF
 /outputs/aux/02 0 POST OFF
@@ -2108,11 +2108,3 @@
 /headamp/125 +0.0 OFF
 /headamp/126 +0.0 OFF
 /headamp/127 +0.0 OFF
-/-stat/selidx Ch05
-/-stat/chfaderbank 3
-/-stat/grpfaderbank 0
-/-stat/sendsonfader OFF
-/-stat/bussendbank 0
-/-stat/eqband 0
-/-stat/userbank 0
-/-stat/dcaspill 0
