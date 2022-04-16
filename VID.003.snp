@@ -1,8 +1,12 @@
-#4.0# "Unmute Host" 224 1342177280 0 0 1                                                                                       
-/ch/29/grp %00000000 %000000
-/ch/29/mix/fader   0.0
-/ch/29/mix/pan +0
-/ch/29/mix/on ON
+#4.0# "Unmute Host / Crowd" 224 1342177280 0 0 1                                                                                       
+/ch/25/grp %00000000 %000000
+/ch/25/mix/fader   0.0
+/ch/25/mix/pan -100
+/ch/25/mix/on ON
+/ch/26/grp %00000000 %000000
+/ch/26/mix/fader   0.0
+/ch/26/mix/pan +100
+/ch/26/mix/on ON
 /ch/31/grp %00000000 %000000
 /ch/31/mix/fader   0.0
 /ch/31/mix/pan +0

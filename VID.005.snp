@@ -1,7 +1,10 @@
 #4.0# "Unmute Roscoe" 192 -1879048192 0 0 1                                                                                    
-/ch/29/mix/fader   0.0
-/ch/29/mix/pan +0
-/ch/29/mix/on ON
+/ch/25/mix/fader   0.0
+/ch/25/mix/pan -100
+/ch/25/mix/on ON
+/ch/26/mix/fader   0.0
+/ch/26/mix/pan +100
+/ch/26/mix/on ON
 /ch/32/mix/fader   0.0
 /ch/32/mix/pan +0
 /ch/32/mix/on ON

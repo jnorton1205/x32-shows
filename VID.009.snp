@@ -1,26 +1,23 @@
 #4.0# "Speak" 17504 32992 805306368 32768 1                                                                                    
-/ch/05/grp %00100000 %000000
-/ch/05/mix/fader   0.0
-/ch/05/mix/pan +0
-/ch/05/mix/13 ON -10.0 +0 POST 0
-/ch/06/grp %00100000 %000000
-/ch/06/mix/fader   0.0
-/ch/06/mix/pan +0
-/ch/06/mix/13 ON -10.0 +0 POST 0
-/ch/06/mix/14 ON   -oo
-/ch/07/grp %00100000 %000000
-/ch/07/mix/fader   0.0
-/ch/07/mix/pan +0
-/ch/07/mix/13 ON -11.0 +0 POST 0
-/ch/07/mix/14 ON   -oo
-/ch/08/grp %00100000 %000000
-/ch/08/mix/fader   0.0
-/ch/08/mix/pan +0
-/ch/08/mix/13 ON -10.0 +0 POST 0
-/ch/08/mix/14 ON   -oo
+/ch/13/grp %00100000 %000000
+/ch/13/mix/fader   0.0
+/ch/13/mix/pan +0
+/ch/13/mix/13 ON -10.0 +0 POST 0
+/ch/13/mix/14 ON   -oo
+/ch/14/grp %00100000 %000000
+/ch/14/mix/fader   0.0
+/ch/14/mix/pan +0
+/ch/14/mix/13 ON -10.0 +0 POST 0
+/ch/14/mix/14 ON   -oo
+/ch/15/grp %00100000 %000000
+/ch/15/mix/fader   0.0
+/ch/15/mix/pan +0
+/ch/15/mix/13 ON -10.0 +0 POST 0
+/ch/15/mix/14 ON   -oo
 /ch/16/grp %00100000 %000000
 /ch/16/mix/fader   0.0
 /ch/16/mix/pan +0
 /ch/16/mix/13 ON -10.0 +0 POST 0
 /ch/16/mix/14 ON   -oo
+/ch/16/grp %00100000 %000000
 /dca/8/fader -10.0

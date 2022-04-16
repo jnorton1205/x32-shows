@@ -45,7 +45,7 @@ scene/001 "Start" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 201326592 15 0 1
 snippet/002 "Pre / Post Music" 192 201326592 15 0 1
-snippet/003 "Unmute Host" 224 1342177280 0 0 1
+snippet/003 "Unmute Host / Crowd" 224 1342177280 0 0 1
 snippet/004 "Mute Host" 128 1879048192 0 0 1
 snippet/005 "Unmute Roscoe" 192 -1879048192 0 0 1
 snippet/006 "Mute Roscoe" 128 -1879048192 0 0 1
@@ -54,8 +54,8 @@ snippet/008 "Mute Band" 128 4194303 0 0 1
 snippet/009 "Speak" 17504 240 805306368 32768 1
 snippet/010 "Track" 192 205389824 15 0 1
 snippet/011 "Background Music" 192 201326592 12 0 1
-snippet/012 "Unmute Host 2" 192 1073741824 0 0 1
-snippet/013 "Mute Host 2" 128 -1845493760 0 0 1
+snippet/012 "Unmute Host Only" 192 1073741824 0 0 1
+snippet/013 "Mute Guest" 128 -1845493760 0 0 1
 snippet/014 "Your Love Awaken" 17632 224 536870912 0 1
 snippet/015 "Graves to Garden" 17632 32992 0 0 1
 snippet/016 "Unstoppable God" 17632 224 536870912 0 1

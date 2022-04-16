@@ -1,4 +1,4 @@
-#4.0# "Unmute Host 2" 192 1073741824 0 0 1                                                                                     
+#4.0# "Unmute Host Only" 192 1073741824 0 0 1                                                                                     
 /ch/31/mix/fader   0.0
 /ch/31/mix/pan +0
 /ch/31/mix/on ON
