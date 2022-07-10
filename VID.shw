@@ -3,51 +3,45 @@ show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 0 -1 11 0 1 0 0
 cue/002 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/003 110 "Sharp Dressed Man" 1 -1 92 0 1 0 0
+cue/003 110 "Holy Water" 0 -1 60 0 1 0 0
 cue/004 111 "Speak" 1 -1 9 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 201 "BG Music" 1 -1 10 0 1 0 0
-cue/007 210 "Unmute Host" 1 -1 3 0 1 0 0
+cue/007 210 "Unmute Host" 0 -1 3 0 1 0 0
 cue/008 211 "Mute Band" 1 -1 8 0 1 0 0
 cue/009 300 "Worship" 1 -1 -1 0 1 0 0
 cue/010 301 "Speak" 0 -1 9 0 1 0 0
 cue/011 302 "Unmute Band" 1 -1 7 0 1 0 0
-cue/012 303 "Mute Host" 0 -1 4 0 1 0 0
-cue/013 310 "Battle Belongs" 0 -1 72 0 1 0 0
+cue/012 303 "Mute Host" 1 -1 4 0 1 0 0
+cue/013 310 "Unstoppable God" 0 -1 16 0 1 0 0
 cue/014 311 "Speak" 0 -1 9 0 1 0 0
-cue/015 320 "What He's Done" 0 -1 88 0 1 0 0
+cue/015 320 "Goodness of God" 0 -1 29 0 1 0 0
 cue/016 321 "Speak" 0 -1 9 0 1 0 0
 cue/017 330 "Same God" 1 -1 94 0 1 0 0
-cue/018 400 "Commmunion" 1 -1 -1 0 1 0 0
-cue/019 410 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/020 420 "Vid: Holier Than Thou" 0 -1 1 0 1 0 0
-cue/021 421 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/022 400 "Hosting" 1 -1 -1 0 1 0 0
-cue/023 510 "Vid: Logo Wall" 1 -1 1 0 1 0 0
-cue/024 511 "Speak" 0 -1 9 0 1 0 0
-cue/025 520 "Unmute Host" 0 -1 3 0 1 0 0
-cue/026 521 "BG Music" 1 -1 10 0 1 0 0
-cue/027 522 "Mute Band" 0 -1 8 0 1 0 0
-cue/028 600 "Baby Dedication" 1 -1 -1 0 1 0 0
-cue/029 610 "Unmute Roscoe" 1 -1 5 0 1 0 0
-cue/030 611 "Mute Host" 0 -1 4 0 1 0 0
-cue/031 620 "Vid: Message Bumper" 0 -1 1 0 1 0 0
-cue/032 621 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/033 700 "Message" 1 -1 -1 0 1 0 0
-cue/034 710 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/035 711 "Prayer Track" 0 -1 10 0 1 0 0
-cue/036 800 "Worship" 1 -1 -1 0 1 0 0
-cue/037 801 "Speak" 1 -1 9 0 1 0 0
-cue/038 802 "Unmute Band" 1 -1 7 0 1 0 0
-cue/039 803 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/040 810 "Great Is Thy Faithfulness" 1 -1 93 0 1 0 0
-cue/041 811 "Speak" 1 -1 9 0 1 0 0
-cue/042 820 "Faithful Now" 1 -1 67 0 1 0 0
-cue/043 900 "Post-Service" 1 -1 -1 0 1 0 0
-cue/044 910 "Vid: Post-Servic" 0 -1 11 0 1 0 0
-cue/045 911 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/046 912 "Speak" 1 -1 9 0 1 0 0
-cue/047 913 "Mute Band" 1 -1 8 0 1 0 0
+cue/018 500 "Hosting" 1 -1 -1 0 1 0 0
+cue/019 510 "Vid: Logo Wall" 1 -1 1 0 1 0 0
+cue/020 511 "Speak" 0 -1 9 0 1 0 0
+cue/021 520 "Unmute Host" 0 -1 3 0 1 0 0
+cue/022 521 "BG Music" 0 -1 11 0 1 0 0
+cue/023 522 "Mute Band" 0 -1 8 0 1 0 0
+cue/024 600 "Message" 1 -1 -1 0 1 0 0
+cue/025 610 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/026 611 "Prayer Track" 0 -1 10 0 1 0 0
+cue/027 700 "Worship" 1 -1 -1 0 1 0 0
+cue/028 701 "Speak" 0 -1 9 0 1 0 0
+cue/029 702 "Unmute Band" 0 -1 7 0 1 0 0
+cue/030 703 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/031 710 "This I Believe" 0 -1 95 0 1 0 0
+cue/032 711 "Speak" 0 -1 9 0 1 0 0
+cue/033 720 "Faithful Now" 1 -1 67 0 1 0 0
+cue/034 800 "Baptism" 1 -1 -1 0 1 0 0
+cue/035 810 "Unmute Baptism" 0 -1 96 0 1 0 0
+cue/036 820 "This I Believe" 0 -1 95 0 1 0 0
+cue/037 900 "Post-Service" 1 -1 -1 0 1 0 0
+cue/038 901 "Mute Baptism" 0 -1 97 0 1 0 0
+cue/039 910 "Vid: Post-Servic" 0 -1 11 0 1 0 0
+cue/040 911 "Speak" 0 -1 9 0 1 0 0
+cue/041 912 "Mute Band" 0 -1 8 0 1 0 0
 scene/001 "Start" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 201326592 15 0 1
@@ -143,6 +137,7 @@ snippet/091 "Thank You Jesus For The Blood" 192 17632 0 0 1
 snippet/092 "Sharp Dressed Man" 192 17632 0 0 1
 snippet/093 "Great Is Thy Faithfulness" 192 17632 0 0 1
 snippet/094 "Same God" 192 17632 0 0 1
+snippet/095 "This I Believe" 192 17632 0 0 1
 snippet/096 "Unmute Baptism" 192 17632 0 0 1
 snippet/097 "Mute Baptism" 192 17632 0 0 1
 snippet/098 "EQ Off" 4 0 0 12 1
