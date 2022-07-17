@@ -3,7 +3,7 @@ show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 0 -1 11 0 1 0 0
 cue/002 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/003 110 "Holy Water" 0 -1 60 0 1 0 0
+cue/003 110 "Rest On Us" 0 -1 25 0 1 0 0
 cue/004 111 "Speak" 1 -1 9 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 201 "BG Music" 1 -1 10 0 1 0 0
@@ -13,9 +13,9 @@ cue/009 300 "Worship" 1 -1 -1 0 1 0 0
 cue/010 301 "Speak" 0 -1 9 0 1 0 0
 cue/011 302 "Unmute Band" 1 -1 7 0 1 0 0
 cue/012 303 "Mute Host" 1 -1 4 0 1 0 0
-cue/013 310 "Unstoppable God" 0 -1 16 0 1 0 0
+cue/013 310 "Glorious Day" 0 -1 22 0 1 0 0
 cue/014 311 "Speak" 0 -1 9 0 1 0 0
-cue/015 320 "Goodness of God" 0 -1 29 0 1 0 0
+cue/015 320 "What A Beautiful Name" 0 -1 28 0 1 0 0
 cue/016 321 "Speak" 0 -1 9 0 1 0 0
 cue/017 330 "Same God" 1 -1 94 0 1 0 0
 cue/018 500 "Hosting" 1 -1 -1 0 1 0 0
@@ -31,14 +31,14 @@ cue/027 700 "Worship" 1 -1 -1 0 1 0 0
 cue/028 701 "Speak" 0 -1 9 0 1 0 0
 cue/029 702 "Unmute Band" 0 -1 7 0 1 0 0
 cue/030 703 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/031 710 "This I Believe" 0 -1 95 0 1 0 0
-cue/032 711 "Speak" 0 -1 9 0 1 0 0
+cue/031 710 "Whole Heart" 0 -1 23 0 1 0 0
+cue/032 711 "Speak" 1 -1 9 0 1 0 0
 cue/033 720 "Faithful Now" 1 -1 67 0 1 0 0
 cue/034 800 "Baptism" 1 -1 -1 0 1 0 0
-cue/035 810 "Unmute Baptism" 0 -1 96 0 1 0 0
-cue/036 820 "This I Believe" 0 -1 95 0 1 0 0
+cue/035 810 "Unmute Baptism" 1 -1 96 0 1 0 0
+cue/036 820 "This I Believe" 1 -1 95 0 1 0 0
 cue/037 900 "Post-Service" 1 -1 -1 0 1 0 0
-cue/038 901 "Mute Baptism" 0 -1 97 0 1 0 0
+cue/038 901 "Mute Baptism" 1 -1 97 0 1 0 0
 cue/039 910 "Vid: Post-Servic" 0 -1 11 0 1 0 0
 cue/040 911 "Speak" 0 -1 9 0 1 0 0
 cue/041 912 "Mute Band" 0 -1 8 0 1 0 0
