@@ -12,10 +12,10 @@ cue/008 211 "Mute Band" 1 -1 8 0 1 0 0
 cue/009 300 "Worship" 1 -1 -1 0 1 0 0
 cue/010 301 "Speak" 0 -1 9 0 1 0 0
 cue/011 302 "Unmute Band" 1 -1 7 0 1 0 0
-cue/012 303 "Mute Host" 1 -1 4 0 1 0 0
-cue/013 310 "House Of The Lord" 0 -1 62 0 1 0 0
+cue/012 303 "Mute Host" 0 -1 4 0 1 0 0
+cue/013 310 "House Of The Lor" 0 -1 62 0 1 0 0
 cue/014 311 "Speak" 0 -1 9 0 1 0 0
-cue/015 320 "Graves Into Gardens" 0 -1 15 0 1 0 0
+cue/015 320 "Graves Into Gard" 0 -1 15 0 1 0 0
 cue/016 321 "Speak" 0 -1 9 0 1 0 0
 cue/017 330 "Way Maker" 0 -1 21 0 1 0 0
 cue/018 500 "Hosting" 1 -1 -1 0 1 0 0
@@ -24,30 +24,30 @@ cue/020 511 "Speak" 0 -1 9 0 1 0 0
 cue/021 512 "Mute Band" 0 -1 8 0 1 0 0
 cue/022 520 "Unmute Host" 0 -1 3 0 1 0 0
 cue/023 521 "BG Music" 1 -1 11 0 1 0 0
-cue/023 530 "Baby Dedications" 1 -1 5 0 1 0 0
-cue/023 531 "Mute Host" 1 -1 4 0 1 0 0
-cue/029 540 "Vid: Bumper" 0 -1 1 0 1 0 0
-cue/030 541 "Mute Host" 0 -1 4 0 1 0 0
-cue/031 542 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/032 600 "Message" 1 -1 -1 0 1 0 0
-cue/033 610 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/034 611 "Prayer Track" 0 -1 10 0 1 0 0
-cue/035 700 "Worship" 1 -1 -1 0 1 0 0
-cue/036 701 "Speak" 1 -1 9 0 1 0 0
-cue/037 702 "Unmute Band" 1 -1 7 0 1 0 0
-cue/038 703 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/039 710 "Whole Heart" 1 -1 23 0 1 0 0
-cue/040 711 "Speak" 1 -1 9 0 1 0 0
-cue/041 720 "Faithful Now" 1 -1 67 0 1 0 0
-cue/042 800 "Baptism" 1 -1 -1 0 1 0 0
-cue/043 810 "Unmute Baptism" 1 -1 96 0 1 0 0
-cue/044 820 "This I Believe" 1 -1 95 0 1 0 0
-cue/045 900 "Post-Service" 1 -1 -1 0 1 0 0
-cue/046 901 "Mute Baptism" 1 -1 97 0 1 0 0
-cue/047 910 "Vid: Post-Servic" 0 -1 1 0 1 0 0
-cue/048 911 "Speak" 1 -1 9 0 1 0 0
-cue/049 912 "Mute Band" 1 -1 8 0 1 0 0
-cue/050 913 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/024 530 "Baby Dedications" 1 -1 5 0 1 0 0
+cue/025 531 "Mute Host" 1 -1 4 0 1 0 0
+cue/026 540 "Vid: Bumper" 0 -1 1 0 1 0 0
+cue/027 541 "Mute Host" 0 -1 4 0 1 0 0
+cue/028 542 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/029 600 "Message" 1 -1 -1 0 1 0 0
+cue/030 610 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/031 611 "Prayer Track" 0 -1 10 0 1 0 0
+cue/032 700 "Worship" 1 -1 -1 0 1 0 0
+cue/033 701 "Speak" 1 -1 9 0 1 0 0
+cue/034 702 "Unmute Band" 1 -1 7 0 1 0 0
+cue/035 703 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/036 710 "Whole Heart" 1 -1 23 0 1 0 0
+cue/037 711 "Speak" 1 -1 9 0 1 0 0
+cue/038 720 "Faithful Now" 1 -1 67 0 1 0 0
+cue/039 800 "Baptism" 1 -1 -1 0 1 0 0
+cue/040 810 "Unmute Baptism" 1 -1 96 0 1 0 0
+cue/041 820 "This I Believe" 1 -1 95 0 1 0 0
+cue/042 900 "Post-Service" 1 -1 -1 0 1 0 0
+cue/043 901 "Mute Baptism" 1 -1 97 0 1 0 0
+cue/044 910 "Vid: Post-Servic" 0 -1 1 0 1 0 0
+cue/045 911 "Speak" 1 -1 9 0 1 0 0
+cue/046 912 "Mute Band" 1 -1 8 0 1 0 0
+cue/047 913 "Mute Roscoe" 0 -1 6 0 1 0 0
 scene/001 "Start" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 201326592 15 0 1
