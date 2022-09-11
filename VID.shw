@@ -1,56 +1,58 @@
 #4.0#
 show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
-cue/001 100 "Vid: Pre-Service" 0 -1 1 0 1 0 0
+cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
 cue/002 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/003 110 "All Hail King Jesus" 0 -1 73 0 1 0 0
-cue/004 111 "Speak" 1 -1 9 0 1 0 0
-cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
-cue/006 201 "BG Music" 1 -1 10 0 1 0 0
-cue/007 210 "Unmute Host" 0 -1 3 0 1 0 0
-cue/008 211 "Mute Band" 1 -1 8 0 1 0 0
-cue/009 300 "Worship" 1 -1 -1 0 1 0 0
-cue/010 301 "Speak" 0 -1 9 0 1 0 0
-cue/011 302 "Unmute Band" 1 -1 7 0 1 0 0
-cue/012 303 "Mute Host" 0 -1 4 0 1 0 0
-cue/013 310 "Unstoppable God" 0 -1 16 0 1 0 0
-cue/014 311 "Speak" 0 -1 9 0 1 0 0
-cue/015 320 "O Praise The Name" 0 -1 76 0 1 0 0
-cue/016 321 "Speak" 0 -1 9 0 1 0 0
-cue/017 330 "Same God" 0 -1 94 0 1 0 0
-cue/018 500 "Hosting" 1 -1 -1 0 1 0 0
-cue/019 510 "Vid: Logo Stinger" 0 -1 1 0 1 0 0
-cue/020 511 "Speak" 0 -1 9 0 1 0 0
-cue/021 512 "Mute Band" 0 -1 8 0 1 0 0
-cue/022 520 "Unmute Host" 0 -1 3 0 1 0 0
-cue/023 521 "BG Music" 0 -1 11 0 1 0 0
-cue/024 530 "Baby Dedications" 1 -1 5 0 1 0 0
-cue/025 531 "Mute Host" 1 -1 4 0 1 0 0
-cue/026 540 "Vid: Bumper" 0 -1 1 0 1 0 0
-cue/027 541 "Mute Host" 0 -1 4 0 1 0 0
-cue/028 542 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/029 600 "Message" 1 -1 -1 0 1 0 0
-cue/030 610 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/031 611 "Prayer Track" 0 -1 10 0 1 0 0
-cue/032 700 "Worship" 1 -1 -1 0 1 0 0
-cue/033 701 "Speak" 1 -1 9 0 1 0 0
-cue/034 702 "Unmute Band" 0 -1 7 0 1 0 0
-cue/035 703 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/036 710 "Christ Be Maginified" 1 -1 27 0 1 0 0
-cue/037 711 "Speak" 1 -1 9 0 1 0 0
-cue/038 720 "Faithful Now" 1 -1 67 0 1 0 0
-cue/039 800 "Baptism" 1 -1 -1 0 1 0 0
-cue/040 810 "Unmute Baptism" 1 -1 96 0 1 0 0
-cue/041 820 "This I Believe" 1 -1 95 0 1 0 0
-cue/042 900 "Post-Service" 1 -1 -1 0 1 0 0
-cue/043 901 "Mute Baptism" 1 -1 97 0 1 0 0
-cue/044 910 "Vid: Post-Servic" 0 -1 1 0 1 0 0
-cue/045 911 "Speak" 0 -1 9 0 1 0 0
-cue/046 912 "Mute Band" 0 -1 8 0 1 0 0
-cue/047 913 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/003 102 "Online Mix" 1 -1 96 0 1 0 0
+cue/004 110 "Breakthrough" 0 -1 61 0 1 0 0
+cue/005 111 "Speak" 1 -1 9 0 1 0 0
+cue/006 200 "Welcome" 1 -1 -1 0 1 0 0
+cue/007 201 "BG Music" 1 -1 10 0 1 0 0
+cue/008 210 "Unmute Host" 0 -1 3 0 1 0 0
+cue/009 211 "Mute Band" 1 -1 8 0 1 0 0
+cue/010 300 "Worship" 1 -1 -1 0 1 0 0
+cue/011 301 "Speak" 0 -1 9 0 1 0 0
+cue/012 302 "Unmute Band" 1 -1 7 0 1 0 0
+cue/013 303 "Mute Host" 0 -1 4 0 1 0 0
+cue/014 310 "House of the Lor" 0 -1 62 0 1 0 0
+cue/015 311 "Speak" 0 -1 9 0 1 0 0
+cue/016 320 "Living Hope" 0 -1 89 0 1 0 0
+cue/017 321 "Speak" 0 -1 9 0 1 0 0
+cue/018 322 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/019 323 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/020 330 "Same God" 0 -1 94 0 1 0 0
+cue/021 500 "Hosting" 1 -1 -1 0 1 0 0
+cue/022 510 "Vid: Logo Stinge" 0 -1 1 0 1 0 0
+cue/023 511 "Speak" 0 -1 9 0 1 0 0
+cue/024 512 "Mute Band" 0 -1 8 0 1 0 0
+cue/025 520 "Unmute Host" 0 -1 3 0 1 0 0
+cue/026 521 "BG Music" 1 -1 11 0 1 0 0
+cue/027 530 "Baby Dedications" 1 -1 5 0 1 0 0
+cue/028 531 "Mute Host" 1 -1 4 0 1 0 0
+cue/029 540 "Vid: Bumper" 0 -1 1 0 1 0 0
+cue/030 541 "Mute Host" 0 -1 4 0 1 0 0
+cue/031 542 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/032 600 "Message" 1 -1 -1 0 1 0 0
+cue/033 610 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/034 611 "Prayer Track" 0 -1 10 0 1 0 0
+cue/035 700 "Worship" 1 -1 -1 0 1 0 0
+cue/036 701 "Speak" 1 -1 9 0 1 0 0
+cue/037 702 "Unmute Band" 1 -1 7 0 1 0 0
+cue/038 703 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/039 710 "Christ Be Magini" 1 -1 27 0 1 0 0
+cue/040 711 "Speak" 1 -1 9 0 1 0 0
+cue/041 720 "Faithful Now" 1 -1 67 0 1 0 0
+cue/042 800 "Baptism" 1 -1 -1 0 1 0 0
+cue/043 820 "This I Believe" 1 -1 95 0 1 0 0
+cue/044 900 "Post-Service" 1 -1 -1 0 1 0 0
+cue/045 910 "Vid: Post-Servic" 0 -1 -1 0 1 0 0
+cue/046 911 "Speak" 1 -1 9 0 1 0 0
+cue/047 912 "Mute Band" 1 -1 8 0 1 0 0
+cue/048 913 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/049 1000 "Online Crowd" 0 -1 -1 0 1 0 0
 scene/001 "Start" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
-snippet/001 "Vid: 0dB" 192 201326592 15 0 1
+snippet/001 "Vid: 0dB" 2240 201326592 15 0 1
 snippet/002 "Pre / Post Music" 192 201326592 12 0 1
 snippet/003 "Unmute Host / Cr" 224 1342177280 0 0 1
 snippet/004 "Mute Host" 128 1879048192 0 0 1
@@ -65,7 +67,7 @@ snippet/012 "Unmute Host Only" 192 536870912 0 0 1
 snippet/013 "Mute Guest" 128 -1845493760 0 0 1
 snippet/014 "Your Love Awaken" 17440 224 536870912 0 1
 snippet/015 "Graves to Garden" 17440 61440 0 0 1
-snippet/016 "Unstoppable God" 17440 224 536870912 0 1
+snippet/016 "Unstoppable God" 17440 61440 0 0 1
 snippet/017 "Death Arrested" 17504 224 536870912 0 1
 snippet/018 "See A Victory" 17440 224 536870912 0 1
 snippet/019 "In the river" 17504 224 0 0 1
@@ -138,13 +140,14 @@ snippet/085 "How He Loves Med" 192 17440 0 0 1
 snippet/086 "For The Cross" 192 17440 0 0 1
 snippet/087 "You Restore My S" 192 17440 0 0 1
 snippet/088 "What He's Done" 192 17440 0 0 1
+snippet/089 "Living Hope" 17440 61440 0 0 1
 snippet/090 "Never Once" 192 17440 0 0 1
 snippet/091 "Thank You Jesus " 192 17440 0 0 1
 snippet/092 "Sharp Dressed Ma" 192 17440 0 0 1
 snippet/093 "Great Is Thy Fai" 192 17440 0 0 1
-snippet/094 "Same God" 192 17440 0 0 1
+snippet/094 "Same God" 17440 61440 0 0 1
 snippet/095 "This I Believe" 192 17440 0 0 1
-snippet/096 "Unmute Baptism" 192 17440 0 0 1
-snippet/097 "Mute Baptism" 192 17440 0 0 1
+snippet/096 "" 4096 0 201326592 67 1
+snippet/097 "" 4096 0 201326592 67 1
 snippet/098 "EQ Off" 4 0 0 12 1
 snippet/099 "Headphone EQ" 4 0 0 12 1
