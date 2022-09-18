@@ -1,6 +1,10 @@
-#4.0# "Track" 128 3932160 0 0 1                                                                                                
+#4.0# "Track" 192 224 0 0 1                                                                                                    
+/ch/06/mix/fader  +0.0
+/ch/06/mix/pan +0
+/ch/06/mix/on ON
+/ch/07/mix/fader  +0.0
+/ch/07/mix/pan +0
 /ch/07/mix/on ON
+/ch/08/mix/fader  +0.0
+/ch/08/mix/pan +0
 /ch/08/mix/on ON
-/ch/09/mix/on ON
-/ch/19/mix/on ON
-/ch/20/mix/on ON

@@ -61,7 +61,7 @@ snippet/006 "Mute Roscoe" 128 -1879048192 0 0 1
 snippet/007 "Unmute Band" 128 17440 0 0 1
 snippet/008 "Mute Band" 128 4194303 0 0 1
 snippet/009 "Speak" 17504 240 805306368 32768 1
-snippet/010 "Track" 192 224 15 0 1
+snippet/010 "Track" 192 224 0 0 1
 snippet/011 "Background Music" 192 201326592 12 0 1
 snippet/012 "Unmute Host Only" 192 536870912 0 0 1
 snippet/013 "Mute Guest" 128 -1845493760 0 0 1
@@ -98,7 +98,7 @@ snippet/043 "Wou You Say I Am" 17440 224 536870912 0 1
 snippet/044 "No Longer Slaves" 17504 224 0 0 1
 snippet/045 "Rattle" 17440 224 536870912 0 1
 snippet/046 "God I Look To Yo" 17440 224 536870912 0 1
-snippet/047 "Agnus Dei / King" 17440 224 536870912 0 1
+snippet/047 "Agnus Dei / King" 17440 61440 0 0 1
 snippet/048 "Love Has A Name" 17568 240 536870912 0 1
 snippet/049 "Reckless Love" 17440 224 536870912 0 1
 snippet/050 "How Deep The Fat" 17440 224 536870912 0 1
