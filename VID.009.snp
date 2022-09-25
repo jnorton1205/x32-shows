@@ -1,4 +1,4 @@
-#4.0# "Speak" 17504 32992 805306368 32768 1                                                                                    
+#4.0# "Speak" 17504 61440 805307136 0 1                                                                                        
 /ch/13/grp %00100000 %000000
 /ch/13/mix/fader   0.0
 /ch/13/mix/pan +0
@@ -19,5 +19,9 @@
 /ch/16/mix/pan +0
 /ch/16/mix/13 ON -10.0 +0 POST 0
 /ch/16/mix/14 ON   -oo
-/ch/16/grp %00100000 %000000
-/dca/8/fader -10.0
+/fxrtn/01/grp %00000000 %100000
+/fxrtn/01/mix/fader   0.0
+/fxrtn/01/mix/pan -100
+/fxrtn/02/grp %00000000 %100000
+/fxrtn/02/mix/fader   0.0
+/fxrtn/02/mix/pan +100
