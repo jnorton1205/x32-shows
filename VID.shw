@@ -2,37 +2,37 @@
 show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
-cue/002 101 "Unmute Band" 1 -1 7 0 1 0 0
+cue/002 101 "Unmute Band" 0 -1 7 0 1 0 0
 cue/003 102 "Online Mix" 1 -1 -1 0 1 0 0
-cue/004 110 "Who You Say I Am" 1 -1 54 0 1 0 0
+cue/004 110 "Back To Life" 0 -1 78 0 1 0 0
 cue/005 111 "Speak" 1 -1 9 0 1 0 0
-cue/006 120 "Vid: Trick Or Treat" 0 -1 1 0 1 0 0
+cue/006 120 "Vid: Trick Or Tr" 1 -1 1 0 1 0 0
 cue/007 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/008 201 "BG Music" 0 -1 10 0 1 0 0
 cue/009 210 "Unmute Host" 1 -1 3 0 1 0 0
 cue/010 211 "Mute Band" 1 -1 8 0 1 0 0
 cue/011 300 "Worship" 1 -1 -1 0 1 0 0
 cue/012 301 "Speak" 0 -1 9 0 1 0 0
-cue/013 302 "Unmute Band" 0 -1 7 0 1 0 0
+cue/013 302 "Unmute Band" 1 -1 7 0 1 0 0
 cue/014 303 "Mute Host" 1 -1 4 0 1 0 0
-cue/015 310 "Battle Belongs" 0 -1 72 0 1 0 0
-cue/016 311 "Speak" 1 -1 9 0 1 0 0
-cue/017 320 "Agnus Dei" 0 -1 47 0 1 0 0
+cue/015 310 "Graves Into Gard" 0 -1 15 0 1 0 0
+cue/016 311 "Speak" 0 -1 9 0 1 0 0
+cue/017 320 "Great Is Thy Fai" 0 -1 93 0 1 0 0
 cue/018 321 "Speak" 1 -1 9 0 1 0 0
 cue/019 322 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/020 323 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/021 330 "Way Maker" 1 -1 21 0 1 0 0
+cue/021 330 "Faithful Now" 0 -1 67 0 1 0 0
 cue/022 500 "Hosting" 1 -1 -1 0 1 0 0
-cue/023 510 "Vid: Man Up" 0 -1 1 0 1 0 0
+cue/023 510 "Vid: Message Bum" 0 -1 1 0 1 0 0
 cue/024 511 "Speak" 0 -1 9 0 1 0 0
-cue/025 512 "Mute Band" 0 -1 8 0 1 0 0
-cue/026 513 "Mute Crowd" 0 -1 2 0 1 0 0
+cue/025 513 "Mute Crowd" 0 -1 2 0 1 0 0
+cue/026 514 "Mute Band" 0 -1 8 0 1 0 0
 cue/027 520 "Unmute Host" 0 -1 3 0 1 0 0
 cue/028 521 "BG Music" 0 -1 11 0 1 0 0
 cue/029 530 "Baby Dedications" 1 -1 5 0 1 0 0
 cue/030 531 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/031 532 "Mute Host" 0 -1 4 0 1 0 0
-cue/032 540 "Vid: Bumper" 0 -1 1 0 1 0 0
+cue/032 540 "Vid: Testimony" 0 -1 1 0 1 0 0
 cue/033 541 "Mute Host" 1 -1 4 0 1 0 0
 cue/034 542 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/035 543 "Mute Crowd" 0 -1 2 0 1 0 0
@@ -43,7 +43,7 @@ cue/039 700 "Worship" 1 -1 -1 0 1 0 0
 cue/040 701 "Speak" 1 -1 9 0 1 0 0
 cue/041 702 "Unmute Band" 0 -1 7 0 1 0 0
 cue/042 703 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/043 710 "God Turn It Around" 0 -1 97 0 1 0 0
+cue/043 710 "God Turn It Arou" 0 -1 97 0 1 0 0
 cue/044 711 "Speak" 1 -1 9 0 1 0 0
 cue/045 720 "Faithful Now" 1 -1 67 0 1 0 0
 cue/046 800 "Baptism" 1 -1 -1 0 1 0 0
