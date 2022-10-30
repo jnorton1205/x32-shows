@@ -1,10 +1,15 @@
-#4.0# "Track" 192 224 0 0 1                                                                                                    
-/ch/06/mix/fader  +0.0
-/ch/06/mix/pan +0
-/ch/06/mix/on ON
-/ch/07/mix/fader  +0.0
-/ch/07/mix/pan +0
-/ch/07/mix/on ON
-/ch/08/mix/fader  +0.0
-/ch/08/mix/pan +0
-/ch/08/mix/on ON
+#4.0# "Vid: 0dB - No Crowd" 192 201326592 15 0 1                                                                                          
+/ch/25/mix/on OFF
+/ch/26/mix/on OFF
+/ch/27/mix/fader   0.0
+/ch/27/mix/on ON
+/ch/28/mix/fader   0.0
+/ch/28/mix/on ON
+/auxin/01/mix/fader   -oo
+/auxin/01/mix/on ON
+/auxin/02/mix/fader   -oo
+/auxin/02/mix/on ON
+/auxin/03/mix/fader   -oo
+/auxin/03/mix/on ON
+/auxin/04/mix/fader   -oo
+/auxin/04/mix/on ON
