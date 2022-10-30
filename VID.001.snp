@@ -1,5 +1,13 @@
 #4.0# "Vid: 0dB" 192 201326592 15 0 1                                                                                          
-/ch/27/mix ON   0.0 ON -100 OFF   -oo
-/ch/28/mix ON   0.0 ON +100 OFF   -oo
-/auxin/03/mix ON   -oo ON -100 OFF   -oo
-/auxin/04/mix ON   -oo ON +100 OFF   -oo
+/ch/27/mix/fader   0.0
+/ch/27/mix/on ON
+/ch/28/mix/fader   0.0
+/ch/28/mix/on ON
+/auxin/01/mix/fader   -oo
+/auxin/01/mix/on ON
+/auxin/02/mix/fader   -oo
+/auxin/02/mix/on ON
+/auxin/03/mix/fader   -oo
+/auxin/03/mix/on ON
+/auxin/04/mix/fader   -oo
+/auxin/04/mix/on ON
