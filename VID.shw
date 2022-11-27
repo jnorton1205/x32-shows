@@ -14,13 +14,13 @@ cue/010 301 "Speak" 0 -1 9 0 1 0 0
 cue/011 302 "Unmute Band" 1 -1 7 0 1 0 0
 cue/012 303 "Mute Host" 1 -1 4 0 1 0 0
 cue/013 310 "Battle Belongs" 0 -1 72 0 1 0 0
-cue/014 311 "Speak" 1 -1 9 0 1 0 0
+cue/014 311 "Speak" 0 -1 9 0 1 0 0
 cue/015 320 "Agnus Dei" 0 -1 47 0 1 0 0
 cue/016 321 "Speak" 0 -1 9 0 1 0 0
 cue/017 330 "Faithful Now" 1 -1 67 0 1 0 0
 cue/018 331 "Speak" 1 -1 9 0 1 0 0
 cue/019 500 "Hosting" 1 -1 -1 0 1 0 0
-cue/020 510 "Vid: Message Bumper" 0 -1 10 0 1 0 0
+cue/020 510 "Vid: Message Bum" 0 -1 10 0 1 0 0
 cue/021 511 "Mute Band" 0 -1 8 0 1 0 0
 cue/022 520 "Unmute Host" 0 -1 3 0 1 0 0
 cue/023 521 "BG Music" 0 -1 11 0 1 0 0
@@ -33,12 +33,12 @@ cue/029 700 "Communion" 1 -1 -1 0 1 0 0
 cue/030 701 "Speak" 0 -1 9 0 1 0 0
 cue/031 702 "Unmute Band" 0 -1 7 0 1 0 0
 cue/032 703 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/033 710 "Christ Be Magnified" 0 -1 27 0 1 0 0
+cue/033 710 "Christ Be Magnif" 0 -1 27 0 1 0 0
 cue/034 711 "Mute Roscoe" 0 -1 6 0 1 0 0
 cue/035 712 "Speak" 0 -1 9 0 1 0 0
 cue/036 900 "Post-Service" 1 -1 -1 0 1 0 0
 cue/037 910 "Vid: Post-Servic" 0 -1 -1 0 1 0 0
-cue/038 911 "Speak" 0 -1 9 0 1 0 0
+cue/038 911 "Speak" 1 -1 9 0 1 0 0
 cue/039 912 "Mute Band" 0 -1 8 0 1 0 0
 scene/001 "Start" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
@@ -51,7 +51,7 @@ snippet/006 "Mute Roscoe" 128 -1879048192 0 0 1
 snippet/007 "Unmute Band" 128 17440 0 0 1
 snippet/008 "Mute Band" 128 4194303 0 0 1
 snippet/009 "Speak" 17504 61440 805307136 0 1
-snippet/010 "Vid: 0dB - No Crowd" 192 224 0 0 1
+snippet/010 "Vid: 0dB - No Cr" 192 224 0 0 1
 snippet/011 "Background Music" 192 201326592 12 0 1
 snippet/012 "Unmute Host Only" 192 268435456 0 0 1
 snippet/013 "Mute Guest" 128 -1845493760 0 0 1
