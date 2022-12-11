@@ -3,7 +3,7 @@ show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
 cue/002 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/003 110 "Ain't No Grave" 0 -1 71 0 1 0 0
+cue/003 110 "Christmas Medley" 0 -1 82 0 1 0 0
 cue/004 120 "Vid: Trick Or Tr" 1 -1 1 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 201 "BG Music" 1 -1 11 0 1 0 0
@@ -13,9 +13,9 @@ cue/009 300 "Worship" 1 -1 -1 0 1 0 0
 cue/010 301 "Speak" 0 -1 9 0 1 0 0
 cue/011 302 "Unmute Band" 1 -1 7 0 1 0 0
 cue/012 303 "Mute Host" 1 -1 4 0 1 0 0
-cue/013 310 "House Of the Lor" 0 -1 62 0 1 0 0
+cue/013 310 "Joy To The World" 0 -1 80 0 1 0 0
 cue/014 311 "Speak" 0 -1 9 0 1 0 0
-cue/015 320 "Graves Into Gard" 0 -1 15 0 1 0 0
+cue/015 320 "O Come Let Us Adore" 0 -1 30 0 1 0 0
 cue/016 321 "Speak" 0 -1 9 0 1 0 0
 cue/017 330 "Faithful Now" 1 -1 67 0 1 0 0
 cue/018 331 "Speak" 1 -1 9 0 1 0 0
@@ -25,21 +25,28 @@ cue/021 511 "Mute Band" 0 -1 8 0 1 0 0
 cue/022 520 "Unmute Host" 0 -1 3 0 1 0 0
 cue/023 521 "BG Music" 0 -1 11 0 1 0 0
 cue/024 522 "Mute Host" 0 -1 4 0 1 0 0
-cue/025 530 "Vid: Message Bum" 0 -1 10 0 1 0 0
-cue/026 600 "Message" 1 -1 -1 0 1 0 0
-cue/027 610 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/028 611 "Prayer Track" 1 -1 11 0 1 0 0
-cue/029 700 "Communion" 1 -1 -1 0 1 0 0
-cue/030 701 "Speak" 0 -1 9 0 1 0 0
-cue/031 702 "Unmute Band" 0 -1 7 0 1 0 0
-cue/032 703 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/033 710 "Thank You Jesus " 0 -1 91 0 1 0 0
-cue/034 711 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/035 712 "Speak" 0 -1 9 0 1 0 0
-cue/036 900 "Post-Service" 1 -1 -1 0 1 0 0
-cue/037 910 "Vid: Post-Servic" 0 -1 -1 0 1 0 0
-cue/038 911 "Speak" 1 -1 9 0 1 0 0
-cue/039 912 "Mute Band" 0 -1 8 0 1 0 0
+cue/025 530 "Vid: Fist Bump" 0 -1 10 0 1 0 0
+cue/026 600 "Worship" 1 -1 -1 0 1 0 0
+cue/027 601 "Speak" 0 -1 9 0 1 0 0
+cue/028 602 "Unmute Band" 0 -1 7 0 1 0 0
+cue/029 610 "Blue Christmas" 0 -1 45 0 1 0 0
+cue/030 612 "Speak" 0 -1 9 0 1 0 0
+cue/031 620 "Vid: Message Bumper" 0 -1 10 0 1 0 0
+cue/032 621 "Mute Band" 0 -1 8 0 1 0 0
+cue/033 700 "Message" 1 -1 -1 0 1 0 0
+cue/034 710 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/035 711 "Prayer Track" 1 -1 11 0 1 0 0
+cue/036 800 "Communion" 1 -1 -1 0 1 0 0
+cue/037 801 "Speak" 0 -1 9 0 1 0 0
+cue/038 802 "Unmute Band" 0 -1 7 0 1 0 0
+cue/039 803 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/040 810 "Joy To The World" 0 -1 80 0 1 0 0
+cue/041 811 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/042 812 "Speak" 0 -1 9 0 1 0 0
+cue/043 900 "Post-Service" 1 -1 -1 0 1 0 0
+cue/044 910 "Vid: Post-Servic" 0 -1 -1 0 1 0 0
+cue/045 911 "Speak" 1 -1 9 0 1 0 0
+cue/046 912 "Mute Band" 0 -1 8 0 1 0 0
 scene/001 "Start" "" %000000000 1
 scene/002 "Drum Change" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
@@ -72,7 +79,7 @@ snippet/026 "Over the Rainbow" 17440 224 536870912 0 1
 snippet/027 "Christ Be Magnif" 17440 224 536870912 0 1
 snippet/028 "What A Beautiful" 17440 61440 0 0 1
 snippet/029 "Goodness Of God" 17504 983280 805306368 32768 1
-snippet/030 "Jingle Bell Rock" 17440 224 536870912 0 1
+snippet/030 "O Come Let Us A" 17440 224 536870912 0 1
 snippet/031 "My Soul Maginifi" 17440 224 536870912 0 1
 snippet/032 "All Creation Sin" 17440 224 536870912 0 1
 snippet/033 "Great Are You Lo" 17440 224 536870912 0 1
@@ -87,7 +94,7 @@ snippet/041 "It Is Well" 17440 224 536870912 0 1
 snippet/042 "Surrounded (Figh" 17440 224 536870912 0 1
 snippet/043 "Wou You Say I Am" 17440 224 536870912 0 1
 snippet/044 "No Longer Slaves" 17504 224 0 0 1
-snippet/045 "" 17440 224 536870912 0 1
+snippet/045 "Blue Christmas" 17440 224 536870912 0 1
 snippet/046 "God I Look To Yo" 17440 224 536870912 0 1
 snippet/047 "Agnus Dei / King" 17440 61440 0 0 1
 snippet/048 "Love Has A Name" 17568 240 536870912 0 1
