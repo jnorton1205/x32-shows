@@ -3,7 +3,7 @@ show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
 cue/002 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/003 110 "Christmas Medley" 0 -1 82 0 1 0 0
+cue/003 110 "All Hail King Jesus" 0 -1 73 0 1 0 0
 cue/004 120 "Vid: Trick Or Tr" 1 -1 1 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 201 "BG Music" 1 -1 11 0 1 0 0
@@ -13,40 +13,40 @@ cue/009 300 "Worship" 1 -1 -1 0 1 0 0
 cue/010 301 "Speak" 0 -1 9 0 1 0 0
 cue/011 302 "Unmute Band" 1 -1 7 0 1 0 0
 cue/012 303 "Mute Host" 1 -1 4 0 1 0 0
-cue/013 310 "Joy To The World" 0 -1 80 0 1 0 0
+cue/013 310 "Battle Belongs" 0 -1 72 0 1 0 0
 cue/014 311 "Speak" 0 -1 9 0 1 0 0
-cue/015 320 "O Come Let Us Adore" 0 -1 30 0 1 0 0
+cue/015 320 "King Of My Heart" 0 -1 40 0 1 0 0
 cue/016 321 "Speak" 0 -1 9 0 1 0 0
-cue/017 330 "Faithful Now" 1 -1 67 0 1 0 0
+cue/017 330 "Famous For" 1 -1 37 0 1 0 0
 cue/018 331 "Speak" 1 -1 9 0 1 0 0
 cue/019 500 "Hosting" 1 -1 -1 0 1 0 0
-cue/020 510 "Vid: Come Togeth" 0 -1 10 0 1 0 0
-cue/021 511 "Mute Band" 0 -1 8 0 1 0 0
-cue/022 520 "Unmute Host" 0 -1 3 0 1 0 0
-cue/023 521 "BG Music" 0 -1 11 0 1 0 0
+cue/020 510 "Unmute Host" 0 -1 3 0 1 0 0
+cue/021 511 "BG Music" 0 -1 11 0 1 0 0
+cue/022 520 "Vid: Come Togeth" 1 -1 10 0 1 0 0
+cue/023 521 "Mute Band" 0 -1 8 0 1 0 0
 cue/024 522 "Mute Host" 0 -1 4 0 1 0 0
-cue/025 530 "Vid: Fist Bump" 0 -1 10 0 1 0 0
+cue/025 530 "Vid: Fist Bump" 1 -1 10 0 1 0 0
 cue/026 600 "Worship" 1 -1 -1 0 1 0 0
-cue/027 601 "Speak" 0 -1 9 0 1 0 0
-cue/028 602 "Unmute Band" 0 -1 7 0 1 0 0
-cue/029 610 "Blue Christmas" 0 -1 45 0 1 0 0
-cue/030 612 "Speak" 0 -1 9 0 1 0 0
+cue/027 601 "Speak" 1 -1 9 0 1 0 0
+cue/028 602 "Unmute Band" 1 -1 7 0 1 0 0
+cue/029 610 "Blue Christmas" 1 -1 45 0 1 0 0
+cue/030 612 "Speak" 1 -1 9 0 1 0 0
 cue/031 620 "Vid: Message Bumper" 0 -1 10 0 1 0 0
-cue/032 621 "Mute Band" 0 -1 8 0 1 0 0
+cue/032 621 "Mute Band" 1 -1 8 0 1 0 0
 cue/033 700 "Message" 1 -1 -1 0 1 0 0
 cue/034 710 "Unmute Roscoe" 0 -1 5 0 1 0 0
 cue/035 711 "Prayer Track" 1 -1 11 0 1 0 0
 cue/036 800 "Communion" 1 -1 -1 0 1 0 0
-cue/037 801 "Speak" 0 -1 9 0 1 0 0
-cue/038 802 "Unmute Band" 0 -1 7 0 1 0 0
+cue/037 801 "Speak" 1 -1 9 0 1 0 0
+cue/038 802 "Unmute Band" 1 -1 7 0 1 0 0
 cue/039 803 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/040 810 "Joy To The World" 0 -1 80 0 1 0 0
+cue/040 810 "Joy To The World" 1 -1 80 0 1 0 0
 cue/041 811 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/042 812 "Speak" 0 -1 9 0 1 0 0
+cue/042 812 "Speak" 1 -1 9 0 1 0 0
 cue/043 900 "Post-Service" 1 -1 -1 0 1 0 0
 cue/044 910 "Vid: Post-Servic" 0 -1 -1 0 1 0 0
 cue/045 911 "Speak" 1 -1 9 0 1 0 0
-cue/046 912 "Mute Band" 0 -1 8 0 1 0 0
+cue/046 912 "Mute Band" 1 -1 8 0 1 0 0
 scene/001 "Start" "" %000000000 1
 scene/002 "Drum Change" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
