@@ -3,32 +3,32 @@ show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
 cue/002 101 "Unmute Band" 1 -1 7 0 1 0 0
-cue/003 110 "That's The Power" 1 -1 92 0 1 0 0
+cue/003 110 "Holy Water" 1 -1 60 0 1 0 0
 cue/004 120 "Vid: Trick Or Tr" 1 -1 1 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 201 "BG Music" 1 -1 11 0 1 0 0
-cue/007 210 "Unmute Host" 1 -1 3 0 1 0 0
+cue/007 210 "Unmute Roscoe" 0 -1 5 0 1 0 0
 cue/008 211 "Mute Band" 1 -1 8 0 1 0 0
 cue/009 300 "Worship" 1 -1 -1 0 1 0 0
 cue/010 301 "Speak" 0 -1 9 0 1 0 0
 cue/011 302 "Unmute Band" 0 -1 7 0 1 0 0
-cue/012 303 "Mute Host" 1 -1 4 0 1 0 0
-cue/013 310 "Battle Belongs" 0 -1 72 0 1 0 0
+cue/012 303 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/013 310 "Unstoppable God" 0 -1 16 0 1 0 0
 cue/014 311 "Speak" 0 -1 9 0 1 0 0
-cue/015 320 "Faithful Now" 0 -1 67 0 1 0 0
+cue/015 320 "Drenched In Love" 0 -1 66 0 1 0 0
 cue/016 321 "Speak" 0 -1 9 0 1 0 0
-cue/017 330 "Believe For It" 0 -1 52 0 1 0 0
-cue/018 331 "Speak" 0 -1 9 0 1 0 0
+cue/017 330 "Believe For It" 1 -1 52 0 1 0 0
+cue/018 331 "Speak" 1 -1 9 0 1 0 0
 cue/019 500 "Hosting" 1 -1 -1 0 1 0 0
-cue/020 510 "Vid: Baptism" 0 -1 10 0 1 0 0
-cue/021 511 "Mute Band" 0 -1 8 0 1 0 0
+cue/020 501 "BG Music" 0 -1 11 0 1 0 0
+cue/021 510 "Vid: Baptism" 1 -1 10 0 1 0 0
 cue/022 520 "Unmute Host" 0 -1 3 0 1 0 0
-cue/023 521 "BG Music" 0 -1 11 0 1 0 0
+cue/023 521 "Mute Band" 0 -1 8 0 1 0 0
 cue/024 522 "Mute Host" 0 -1 4 0 1 0 0
-cue/025 530 "Vid: Fist Bump" 0 -1 10 0 1 0 0
-cue/026 540 "Unmute Host" 0 -1 3 0 1 0 0
-cue/027 541 "BG Music" 0 -1 11 0 1 0 0
-cue/028 542 "Mute Host" 0 -1 4 0 1 0 0
+cue/025 530 "Vid: Fist Bump" 1 -1 10 0 1 0 0
+cue/026 540 "Unmute Host" 1 -1 3 0 1 0 0
+cue/027 541 "BG Music" 1 -1 11 0 1 0 0
+cue/028 542 "Mute Host" 1 -1 4 0 1 0 0
 cue/029 600 "Worship" 1 -1 -1 0 1 0 0
 cue/030 601 "Speak" 1 -1 9 0 1 0 0
 cue/031 602 "Unmute Band" 1 -1 7 0 1 0 0
@@ -43,7 +43,7 @@ cue/039 800 "Communion" 1 -1 -1 0 1 0 0
 cue/040 801 "Speak" 1 -1 9 0 1 0 0
 cue/041 802 "Unmute Band" 0 -1 7 0 1 0 0
 cue/042 803 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/043 810 "Great Are You Lo" 0 -1 33 0 1 0 0
+cue/043 810 "Christ Is Enough" 0 -1 92 0 1 0 0
 cue/044 811 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/045 812 "Speak" 1 -1 9 0 1 0 0
 cue/046 900 "Post-Service" 1 -1 -1 0 1 0 0
@@ -97,7 +97,7 @@ snippet/041 "It Is Well" 17440 224 536870912 0 1
 snippet/042 "Surrounded (Figh" 17440 224 536870912 0 1
 snippet/043 "Wou You Say I Am" 17440 224 536870912 0 1
 snippet/044 "No Longer Slaves" 17504 224 0 0 1
-snippet/045 "Blue Christmas" 17440 224 536870912 0 1
+snippet/045 "Christ Is Enough" 17440 224 536870912 0 1
 snippet/046 "God I Look To Yo" 17440 224 536870912 0 1
 snippet/047 "Agnus Dei / King" 17440 61440 0 0 1
 snippet/048 "Love Has A Name" 17568 240 536870912 0 1
@@ -144,7 +144,7 @@ snippet/088 "What He's Done" 192 17440 0 0 1
 snippet/089 "Living Hope" 17440 61440 0 0 1
 snippet/090 "Never Once" 192 17440 0 0 1
 snippet/091 "Thank You Jesus " 192 17440 0 0 1
-snippet/092 "Sharp Dressed Ma" 192 17440 0 0 1
+snippet/092 "That's The Power" 192 17440 0 0 1
 snippet/093 "Great Is Thy Fai" 192 17440 0 0 1
 snippet/094 "Same God" 17440 61440 0 0 1
 snippet/095 "This I Believe" 192 17440 0 0 1
