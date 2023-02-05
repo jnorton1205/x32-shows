@@ -2,8 +2,8 @@
 show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
-cue/002 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/003 110 "All Hail King Jesus" 0 -1 73 0 1 0 0
+cue/002 101 "Unmute Band" 1 -1 7 0 1 0 0
+cue/003 110 "That's The Power" 1 -1 92 0 1 0 0
 cue/004 120 "Vid: Trick Or Tr" 1 -1 1 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 201 "BG Music" 1 -1 11 0 1 0 0
@@ -11,55 +11,58 @@ cue/007 210 "Unmute Host" 1 -1 3 0 1 0 0
 cue/008 211 "Mute Band" 1 -1 8 0 1 0 0
 cue/009 300 "Worship" 1 -1 -1 0 1 0 0
 cue/010 301 "Speak" 0 -1 9 0 1 0 0
-cue/011 302 "Unmute Band" 1 -1 7 0 1 0 0
+cue/011 302 "Unmute Band" 0 -1 7 0 1 0 0
 cue/012 303 "Mute Host" 1 -1 4 0 1 0 0
 cue/013 310 "Battle Belongs" 0 -1 72 0 1 0 0
 cue/014 311 "Speak" 0 -1 9 0 1 0 0
-cue/015 320 "King Of My Heart" 0 -1 40 0 1 0 0
+cue/015 320 "Faithful Now" 0 -1 67 0 1 0 0
 cue/016 321 "Speak" 0 -1 9 0 1 0 0
-cue/017 330 "Famous For" 1 -1 37 0 1 0 0
-cue/018 331 "Speak" 1 -1 9 0 1 0 0
+cue/017 330 "Believe For It" 0 -1 52 0 1 0 0
+cue/018 331 "Speak" 0 -1 9 0 1 0 0
 cue/019 500 "Hosting" 1 -1 -1 0 1 0 0
-cue/020 510 "Unmute Host" 0 -1 3 0 1 0 0
-cue/021 511 "BG Music" 0 -1 11 0 1 0 0
-cue/022 520 "Vid: Come Togeth" 1 -1 10 0 1 0 0
-cue/023 521 "Mute Band" 0 -1 8 0 1 0 0
+cue/020 510 "Vid: Baptism" 0 -1 10 0 1 0 0
+cue/021 511 "Mute Band" 0 -1 8 0 1 0 0
+cue/022 520 "Unmute Host" 0 -1 3 0 1 0 0
+cue/023 521 "BG Music" 0 -1 11 0 1 0 0
 cue/024 522 "Mute Host" 0 -1 4 0 1 0 0
-cue/025 530 "Vid: Fist Bump" 1 -1 10 0 1 0 0
-cue/026 600 "Worship" 1 -1 -1 0 1 0 0
-cue/027 601 "Speak" 1 -1 9 0 1 0 0
-cue/028 602 "Unmute Band" 1 -1 7 0 1 0 0
-cue/029 610 "Blue Christmas" 1 -1 45 0 1 0 0
-cue/030 612 "Speak" 1 -1 9 0 1 0 0
-cue/031 620 "Vid: Message Bumper" 0 -1 10 0 1 0 0
-cue/032 621 "Mute Band" 1 -1 8 0 1 0 0
-cue/033 700 "Message" 1 -1 -1 0 1 0 0
-cue/034 710 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/035 711 "Prayer Track" 1 -1 11 0 1 0 0
-cue/036 800 "Communion" 1 -1 -1 0 1 0 0
-cue/037 801 "Speak" 1 -1 9 0 1 0 0
-cue/038 802 "Unmute Band" 1 -1 7 0 1 0 0
-cue/039 803 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/040 810 "Joy To The World" 1 -1 80 0 1 0 0
-cue/041 811 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/042 812 "Speak" 1 -1 9 0 1 0 0
-cue/043 900 "Post-Service" 1 -1 -1 0 1 0 0
-cue/044 910 "Vid: Post-Servic" 0 -1 -1 0 1 0 0
-cue/045 911 "Speak" 1 -1 9 0 1 0 0
-cue/046 912 "Mute Band" 1 -1 8 0 1 0 0
+cue/025 530 "Vid: Fist Bump" 0 -1 10 0 1 0 0
+cue/026 540 "Unmute Host" 0 -1 3 0 1 0 0
+cue/027 541 "BG Music" 0 -1 11 0 1 0 0
+cue/028 542 "Mute Host" 0 -1 4 0 1 0 0
+cue/029 600 "Worship" 1 -1 -1 0 1 0 0
+cue/030 601 "Speak" 1 -1 9 0 1 0 0
+cue/031 602 "Unmute Band" 1 -1 7 0 1 0 0
+cue/032 610 "Blue Christmas" 1 -1 45 0 1 0 0
+cue/033 612 "Speak" 1 -1 9 0 1 0 0
+cue/034 620 "Vid: Message Bum" 0 -1 10 0 1 0 0
+cue/035 621 "Mute Band" 1 -1 8 0 1 0 0
+cue/036 700 "Message" 1 -1 -1 0 1 0 0
+cue/037 710 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/038 711 "Prayer Track" 1 -1 11 0 1 0 0
+cue/039 800 "Communion" 1 -1 -1 0 1 0 0
+cue/040 801 "Speak" 1 -1 9 0 1 0 0
+cue/041 802 "Unmute Band" 0 -1 7 0 1 0 0
+cue/042 803 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/043 810 "Great Are You Lo" 0 -1 33 0 1 0 0
+cue/044 811 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/045 812 "Speak" 1 -1 9 0 1 0 0
+cue/046 900 "Post-Service" 1 -1 -1 0 1 0 0
+cue/047 910 "Vid: Post-Servic" 0 -1 -1 0 1 0 0
+cue/048 911 "Speak" 0 -1 9 0 1 0 0
+cue/049 912 "Mute Band" 0 -1 8 0 1 0 0
 scene/001 "Start" "" %000000000 1
 scene/002 "Drum Change" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 201326592 15 0 1
 snippet/002 "Mute Crowd" 192 50331648 0 0 1
-snippet/003 "Unmute Host / Cr" 224 1342177280 0 0 1
+snippet/003 "Unmute Host / Cr" 224 1342177280 0 32768 1
 snippet/004 "Mute Host" 128 1879048192 0 0 1
-snippet/005 "Unmute Roscoe" 192 -1879048192 0 0 1
+snippet/005 "Unmute Roscoe" 192 -2147483648 0 32768 1
 snippet/006 "Mute Roscoe" 128 -1879048192 0 0 1
 snippet/007 "Unmute Band" 128 17440 0 0 1
 snippet/008 "Mute Band" 128 3145535 0 0 1
 snippet/009 "Speak" 17504 61440 805307136 0 1
-snippet/010 "Vid: 0dB - No Cr" 192 224 0 0 1
+snippet/010 "Vid: 0dB - No Cr" 192 201326592 0 32768 1
 snippet/011 "Background Music" 192 201326592 12 0 1
 snippet/012 "Unmute Host Only" 192 268435456 0 0 1
 snippet/013 "Mute Guest" 128 -1845493760 0 0 1
@@ -101,7 +104,7 @@ snippet/048 "Love Has A Name" 17568 240 536870912 0 1
 snippet/049 "Reckless Love" 17440 224 536870912 0 1
 snippet/050 "How Deep The Fat" 17440 224 536870912 0 1
 snippet/051 "Because He Lives" 17440 61440 0 0 1
-snippet/052 "Believe For It" 17440 224 536870912 0 1
+snippet/052 "Believe For It" 17440 63488 0 0 1
 snippet/053 "All My Hope" 17440 224 536870912 0 1
 snippet/054 "Who You Say I Am" 17440 224 536870912 0 1
 snippet/055 "Truth Be Told" 17440 224 536870912 0 1
@@ -121,7 +124,7 @@ snippet/068 "My Testimony" 17440 224 0 0 1
 snippet/069 "Blessed Assuranc" 17440 224 0 0 1
 snippet/070 "His Eye Is On Th" 192 17440 0 0 1
 snippet/071 "Ain't No Grave" 192 17440 0 0 1
-snippet/072 "Battle Belongs" 192 17440 0 0 1
+snippet/072 "Battle Belongs" 17440 63488 0 0 1
 snippet/073 "All Hail King Je" 16928 240 0 0 1
 snippet/074 "Build My Life" 192 17440 0 0 1
 snippet/075 "Promises" 192 17440 0 0 1

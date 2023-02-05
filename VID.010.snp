@@ -1,15 +1,9 @@
-#4.0# "Vid: 0dB - No Crowd" 192 201326592 15 0 1                                                                                          
-/ch/25/mix/on OFF
-/ch/26/mix/on OFF
+#4.0# "Vid: 0dB - No Cr" 192 201326592 0 32768 1                                                                               
 /ch/27/mix/fader   0.0
+/ch/27/mix/pan -100
 /ch/27/mix/on ON
 /ch/28/mix/fader   0.0
+/ch/28/mix/pan +100
 /ch/28/mix/on ON
-/auxin/01/mix/fader   -oo
-/auxin/01/mix/on ON
-/auxin/02/mix/fader   -oo
-/auxin/02/mix/on ON
-/auxin/03/mix/fader   -oo
-/auxin/03/mix/on ON
-/auxin/04/mix/fader   -oo
-/auxin/04/mix/on ON
+/dca/8/fader   0.0
+/dca/8/on OFF
