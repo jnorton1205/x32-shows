@@ -3,7 +3,7 @@ show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
 cue/002 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/003 110 "Because Of Chris" 0 -1 26 0 1 0 0
+cue/003 110 "That's The Power" 0 -1 92 0 1 0 0
 cue/004 120 "Vid: " 1 -1 1 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 201 "BG Music" 1 -1 11 0 1 0 0
@@ -13,11 +13,11 @@ cue/009 300 "Worship" 1 -1 -1 0 1 0 0
 cue/010 301 "Speak" 0 -1 9 0 1 0 0
 cue/011 302 "Unmute Band" 1 -1 7 0 1 0 0
 cue/012 303 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/013 310 "This Is Our God" 0 -1 81 0 1 0 0
+cue/013 310 "I Speak Jesus" 0 -1 43 0 1 0 0
 cue/014 311 "Speak" 0 -1 9 0 1 0 0
-cue/015 320 "Same God" 0 -1 94 0 1 0 0
+cue/015 320 "Thank You Jesus For The Blood" 0 -1 91 0 1 0 0
 cue/016 321 "Speak" 0 -1 9 0 1 0 0
-cue/017 330 "What He's Done" 0 -1 88 0 1 0 0
+cue/017 330 "What He's Done" 1 -1 88 0 1 0 0
 cue/018 331 "Speak" 0 -1 9 0 1 0 0
 cue/019 340 "Famous For" 1 -1 37 0 1 0 0
 cue/020 500 "Hosting" 1 -1 -1 0 1 0 0
@@ -43,7 +43,7 @@ cue/039 800 "Communion" 1 -1 -1 0 1 0 0
 cue/040 801 "Speak" 1 -1 9 0 1 0 0
 cue/041 802 "Unmute Band" 0 -1 7 0 1 0 0
 cue/042 803 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/043 810 "Christ Is Enough" 0 -1 45 0 1 0 0
+cue/043 810 "House Of The Lord" 0 -1 62 0 1 0 0
 cue/044 811 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/045 812 "Speak" 1 -1 9 0 1 0 0
 cue/046 900 "Post-Service" 1 -1 -1 0 1 0 0
@@ -95,7 +95,7 @@ snippet/039 "Jesus Saves" 17440 224 536870912 0 1
 snippet/040 "King Of My Heart" 17440 224 536870912 0 1
 snippet/041 "It Is Well" 17440 224 536870912 0 1
 snippet/042 "Surrounded (Figh" 17440 224 536870912 0 1
-snippet/043 "Wou You Say I Am" 17440 224 536870912 0 1
+snippet/043 "I Speak Jesus" 17440 224 536870912 0 1
 snippet/044 "No Longer Slaves" 17504 224 0 0 1
 snippet/045 "Christ Is Enough" 17440 224 536870912 0 1
 snippet/046 "God I Look To Yo" 17440 224 536870912 0 1
