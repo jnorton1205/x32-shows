@@ -2,29 +2,29 @@
 show "VID" 0 0 0 0 0 0 0 0 0 0 "3.12"
 cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
-cue/002 101 "Unmute Band" 1 -1 7 0 1 0 0
-cue/003 110 "This Is Our God" 1 -1 81 0 1 0 0
+cue/002 101 "Unmute Band" 0 -1 7 0 1 0 0
+cue/003 110 "Because Of Chris" 0 -1 26 0 1 0 0
 cue/004 120 "Vid: " 1 -1 1 0 1 0 0
-cue/005 200 "Welcome" 1 -1 -1 0 1` 0 0
+cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 201 "BG Music" 1 -1 11 0 1 0 0
-cue/007 210 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/007 210 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/008 211 "Mute Band" 1 -1 8 0 1 0 0
 cue/009 300 "Worship" 1 -1 -1 0 1 0 0
 cue/010 301 "Speak" 0 -1 9 0 1 0 0
-cue/011 302 "Unmute Band" 0 -1 7 0 1 0 0
-cue/012 303 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/013 310 "Agnus Dei / King of Kings" 0 -1 47 0 1 0 0
+cue/011 302 "Unmute Band" 1 -1 7 0 1 0 0
+cue/012 303 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/013 310 "This Is Our God" 0 -1 81 0 1 0 0
 cue/014 311 "Speak" 0 -1 9 0 1 0 0
-cue/015 320 "Great Are You Lord" 0 -1 33 0 1 0 0
-cue/016 321 "Speak" 1 -1 9 0 1 0 0
-cue/017 330 "That's The Power" 0 -1 92 0 1 0 0
+cue/015 320 "Same God" 0 -1 94 0 1 0 0
+cue/016 321 "Speak" 0 -1 9 0 1 0 0
+cue/017 330 "What He's Done" 0 -1 88 0 1 0 0
 cue/018 331 "Speak" 0 -1 9 0 1 0 0
 cue/019 340 "Famous For" 1 -1 37 0 1 0 0
 cue/020 500 "Hosting" 1 -1 -1 0 1 0 0
-cue/021 510 "Vid: Stinger" 1 -1 10 0 1 0 0
+cue/021 510 "Vid: Stinger" 0 -1 10 0 1 0 0
 cue/022 511 "Speak" 1 -1 9 0 1 0 0
-cue/023 520 "Unmute Host" 0 -1 3 0 1 0 0
-cue/024 521 "Mute Band" 0 -1 8 0 1 0 0
+cue/023 512 "Mute Band" 0 -1 8 0 1 0 0
+cue/024 520 "Unmute Host" 0 -1 3 0 1 0 0
 cue/025 522 "BG Music" 0 -1 11 0 1 0 0
 cue/026 523 "Mute Host" 0 -1 4 0 1 0 0
 cue/027 530 "Vid: Fist Bump" 1 -1 10 0 1 0 0
@@ -43,7 +43,7 @@ cue/039 800 "Communion" 1 -1 -1 0 1 0 0
 cue/040 801 "Speak" 1 -1 9 0 1 0 0
 cue/041 802 "Unmute Band" 0 -1 7 0 1 0 0
 cue/042 803 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/043 810 "We Fall Down" 0 -1 79 0 1 0 0
+cue/043 810 "Christ Is Enough" 0 -1 45 0 1 0 0
 cue/044 811 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/045 812 "Speak" 1 -1 9 0 1 0 0
 cue/046 900 "Post-Service" 1 -1 -1 0 1 0 0
@@ -78,7 +78,7 @@ snippet/022 "Glorious Day" 17440 240 536870912 0 1
 snippet/023 "Whole Heart" 17440 224 536870912 0 1
 snippet/024 "This Is Amazing" 17440 224 536870912 0 1
 snippet/025 "Rest On Us" 17440 224 536870912 0 1
-snippet/026 "Over the Rainbow" 17440 224 536870912 0 1
+snippet/026 "Because Of Chris" 17440 224 536870912 0 1
 snippet/027 "Christ Be Magnif" 17440 224 536870912 0 1
 snippet/028 "What A Beautiful" 17440 61440 0 0 1
 snippet/029 "Goodness Of God" 17504 983280 805306368 32768 1
@@ -140,7 +140,7 @@ snippet/084 "Your Love Never " 192 17440 0 0 1
 snippet/085 "How He Loves Med" 192 17440 0 0 1
 snippet/086 "For The Cross" 192 17440 0 0 1
 snippet/087 "You Restore My S" 192 17440 0 0 1
-snippet/088 "What He's Done" 192 17440 0 0 1
+snippet/088 "What He's Done" 17504 63488 0 0 1
 snippet/089 "Living Hope" 17440 61440 0 0 1
 snippet/090 "Never Once" 192 17440 0 0 1
 snippet/091 "Thank You Jesus " 192 17440 0 0 1
