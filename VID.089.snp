@@ -2,15 +2,23 @@
 /fx/2 DLY
 /fx/2/source MIX14 MIX14
 /fx/2/par 100 833 X 1 1 40 10 20k0 97 30 30 20k0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/ch/12/grp %01000000 %000000
+/ch/12/mix/pan -60
+/ch/12/mix/13 ON   0.0 +0 POST 0
+/ch/12/mix/14 ON   -oo
 /ch/13/grp %01000000 %000000
+/ch/13/mix/pan -30
 /ch/13/mix/13 ON   0.0 +0 POST 0
 /ch/13/mix/14 ON   -oo
 /ch/14/grp %00100000 %000000
+/ch/14/mix/pan +0
 /ch/14/mix/13 ON   0.0 +0 POST 0
 /ch/14/mix/14 ON   0.0
 /ch/15/grp %01000000 %000000
+/ch/15/mix/pan +30
 /ch/15/mix/13 ON   0.0 +0 POST 0
 /ch/15/mix/14 ON   -oo
 /ch/16/grp %01000000 %000000
+/ch/16/mix/pan +60
 /ch/16/mix/13 ON   0.0 +0 POST 0
 /ch/16/mix/14 ON   -oo
