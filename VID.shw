@@ -4,24 +4,24 @@ cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
 cue/002 110 "Speak" 0 -1 9 0 1 0 0
 cue/003 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/004 120 "Praise Opens Prison Doors" 0 -1 32 0 1 0 0
+cue/004 120 "Praise Opens Pri" 0 -1 32 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 300 "Worship" 1 -1 -1 0 1 0 0
-cue/007 301 "Speak" 1 -1 9 0 1 0 0
+cue/007 301 "Speak" 0 -1 9 0 1 0 0
 cue/008 310 "This Is Our God" 0 -1 81 0 1 0 0
 cue/009 311 "Speak" 0 -1 9 0 1 0 0
 cue/010 320 "Way Maker" 0 -1 21 0 1 0 0
 cue/011 321 "Speak" 0 -1 9 0 1 0 0
-cue/012 330 "Thank You Jesus For The Blood" 0 -1 91 0 1 0 0
+cue/012 330 "Thank You Jesus " 0 -1 91 0 1 0 0
 cue/013 331 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/014 332 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/015 500 "Hosting" 1 -1 -1 0 1 0 0
-cue/016 510 "Vid: Stinger" 0 -1 10 0 1 0 0
-cue/017 511 "Speak" 1 -1 9 0 1 0 0
+cue/015 333 "Speak" 0 -1 9 0 1 0 0
+cue/016 500 "Hosting" 1 -1 -1 0 1 0 0
+cue/017 510 "Vid: Stinger" 0 -1 10 0 1 0 0
 cue/018 512 "Mute Band" 0 -1 8 0 1 0 0
 cue/019 520 "Unmute Host" 0 -1 3 0 1 0 0
 cue/020 521 "BG Music" 0 -1 11 0 1 0 0
-cue/021 530 "Vid: Fist Bump" 0 -1 10 0 1 0 0
+cue/021 530 "Vid: Fist Bump" 0 -1 -1 0 1 0 0
 cue/022 531 "Mute Host" 0 -1 4 0 1 0 0
 cue/023 532 "Unmute Host" 0 -1 3 0 1 0 0
 cue/024 533 "BG Music" 0 -1 11 0 1 0 0
@@ -49,96 +49,96 @@ snippet/003 "Unmute Host / Cr" 224 1342177280 0 32768 1
 snippet/004 "Mute Host" 128 1879048192 0 0 1
 snippet/005 "Unmute Roscoe" 192 -2147483648 0 32768 1
 snippet/006 "Mute Roscoe" 128 -1879048192 0 0 1
-snippet/007 "Unmute Band" 128 17440 0 0 1
+snippet/007 "Unmute Band" 128 63488 0 0 1
 snippet/008 "Mute Band" 128 3145535 0 0 1
 snippet/009 "Speak" 17504 61440 805307136 0 1
 snippet/010 "Vid: 0dB - No Cr" 192 201326592 0 32768 1
 snippet/011 "Background Music" 192 201326592 12 0 1
 snippet/012 "Unmute Host Only" 192 268435456 0 0 1
 snippet/013 "Mute Guest" 128 -1845493760 0 0 1
-snippet/014 "Your Love Awaken" 17440 224 536870912 0 1
-snippet/015 "Graves to Garden" 17440 61440 0 0 1
-snippet/016 "Unstoppable God" 17440 61440 0 0 1
+snippet/014 "Your Love Awaken" 63488 224 536870912 0 1
+snippet/015 "Graves to Garden" 63488 61440 0 0 1
+snippet/016 "Unstoppable God" 63488 61440 0 0 1
 snippet/017 "Death Arrested" 17504 224 536870912 0 1
-snippet/018 "See A Victory" 17440 224 536870912 0 1
+snippet/018 "See A Victory" 63488 224 536870912 0 1
 snippet/019 "In the river" 17504 224 0 0 1
-snippet/020 "Raise a Halleluj" 17440 61440 0 0 1
-snippet/021 "Way Maker" 17504 32992 0 0 1
-snippet/022 "Glorious Day" 17440 240 536870912 0 1
-snippet/023 "Whole Heart" 17440 224 536870912 0 1
-snippet/024 "This Is Amazing" 17440 224 536870912 0 1
-snippet/025 "Rest On Us" 17440 224 536870912 0 1
-snippet/026 "Because Of Chris" 17440 224 536870912 0 1
-snippet/027 "Christ Be Magnif" 17440 224 536870912 0 1
-snippet/028 "What A Beautiful" 17440 61440 0 0 1
+snippet/020 "Raise a Halleluj" 63488 61440 0 0 1
+snippet/021 "Way Maker" 17504 63488 0 0 1
+snippet/022 "Glorious Day" 63488 240 536870912 0 1
+snippet/023 "Whole Heart" 63488 224 536870912 0 1
+snippet/024 "This Is Amazing" 63488 224 536870912 0 1
+snippet/025 "Rest On Us" 63488 224 536870912 0 1
+snippet/026 "Because Of Chris" 63488 224 536870912 0 1
+snippet/027 "Christ Be Magnif" 63488 224 536870912 0 1
+snippet/028 "What A Beautiful" 63488 61440 0 0 1
 snippet/029 "Goodness Of God" 17504 983280 805306368 32768 1
-snippet/030 "Holy Spirit" 17440 224 536870912 0 1
-snippet/031 "Glory To Glory" 17440 224 536870912 0 1
-snippet/032 "Praise Opens Pri" 17440 224 536870912 0 1
-snippet/033 "Great Are You Lo" 17440 224 536870912 0 1
-snippet/034 "In Christ Alone" 17440 224 536870912 0 1
-snippet/035 "Hark" 17440 224 536870912 0 1
-snippet/036 "Rejoice" 17440 224 536870912 0 1
-snippet/037 "Do It Again" 17440 224 536870912 0 1
-snippet/038 "Yes I Will" 17440 224 536870912 0 1
-snippet/039 "Jesus Saves" 17440 224 536870912 0 1
-snippet/040 "King Of My Heart" 17440 224 536870912 0 1
-snippet/041 "It Is Well" 17440 224 536870912 0 1
-snippet/042 "Surrounded (Figh" 17440 224 536870912 0 1
-snippet/043 "I Speak Jesus" 17440 224 536870912 0 1
+snippet/030 "Holy Spirit" 63488 224 536870912 0 1
+snippet/031 "Glory To Glory" 63488 224 536870912 0 1
+snippet/032 "Praise Opens Pri" 63488 224 536870912 0 1
+snippet/033 "Great Are You Lo" 63488 224 536870912 0 1
+snippet/034 "In Christ Alone" 63488 224 536870912 0 1
+snippet/035 "Hark" 63488 224 536870912 0 1
+snippet/036 "Rejoice" 63488 224 536870912 0 1
+snippet/037 "Do It Again" 63488 224 536870912 0 1
+snippet/038 "Yes I Will" 63488 224 536870912 0 1
+snippet/039 "Jesus Saves" 63488 224 536870912 0 1
+snippet/040 "King Of My Heart" 63488 224 536870912 0 1
+snippet/041 "It Is Well" 63488 224 536870912 0 1
+snippet/042 "Surrounded (Figh" 63488 224 536870912 0 1
+snippet/043 "I Speak Jesus" 63488 224 536870912 0 1
 snippet/044 "No Longer Slaves" 17504 224 0 0 1
-snippet/045 "Christ Is Enough" 17440 224 536870912 0 1
-snippet/046 "God I Look To Yo" 17440 224 536870912 0 1
-snippet/047 "Agnus Dei / King" 17440 61440 0 0 1
+snippet/045 "Christ Is Enough" 63488 224 536870912 0 1
+snippet/046 "God I Look To Yo" 63488 224 536870912 0 1
+snippet/047 "Agnus Dei / King" 63488 61440 0 0 1
 snippet/048 "Love Has A Name" 17568 240 536870912 0 1
-snippet/049 "Reckless Love" 17440 224 536870912 0 1
-snippet/050 "How Deep The Fat" 17440 224 536870912 0 1
-snippet/051 "Because He Lives" 17440 61440 0 0 1
-snippet/052 "Believe For It" 17440 63488 0 0 1
-snippet/053 "All My Hope" 17440 224 536870912 0 1
-snippet/054 "Who You Say I Am" 17440 224 536870912 0 1
-snippet/055 "Truth Be Told" 17440 224 536870912 0 1
-snippet/056 "Rattle" 17440 224 536870912 0 1
-snippet/057 "The Blessing" 17440 224 536870912 0 1
-snippet/058 "Worthy" 17440 224 536870912 0 1
-snippet/059 "I Surrender All" 17440 224 536870912 0 1
-snippet/060 "Holy Water" 17440 224 536870912 0 1
+snippet/049 "Reckless Love" 63488 224 536870912 0 1
+snippet/050 "How Deep The Fat" 63488 224 536870912 0 1
+snippet/051 "Because He Lives" 63488 61440 0 0 1
+snippet/052 "Believe For It" 63488 63488 0 0 1
+snippet/053 "All My Hope" 63488 224 536870912 0 1
+snippet/054 "Who You Say I Am" 63488 224 536870912 0 1
+snippet/055 "Truth Be Told" 63488 224 536870912 0 1
+snippet/056 "Rattle" 63488 224 536870912 0 1
+snippet/057 "The Blessing" 63488 224 536870912 0 1
+snippet/058 "Worthy" 63488 224 536870912 0 1
+snippet/059 "I Surrender All" 63488 224 536870912 0 1
+snippet/060 "Holy Water" 63488 224 536870912 0 1
 snippet/061 "Breakthrough" 17504 224 536870912 0 1
-snippet/062 "House Of The Lor" 17440 224 0 0 1
-snippet/063 "The Lion And The" 17440 224 0 0 1
-snippet/064 "Here Again" 17440 224 0 0 1
-snippet/065 "Battlecry" 17440 224 0 0 1
-snippet/066 "Drenched In Love" 17440 224 0 0 1
-snippet/067 "Faithful Now" 17440 224 0 0 1
-snippet/068 "My Testimony" 17440 224 0 0 1
-snippet/069 "Blessed Assuranc" 17440 224 0 0 1
-snippet/070 "His Eye Is On Th" 192 17440 0 0 1
-snippet/071 "Ain't No Grave" 192 17440 0 0 1
-snippet/072 "Battle Belongs" 17440 63488 0 0 1
+snippet/062 "House Of The Lor" 63488 224 0 0 1
+snippet/063 "The Lion And The" 63488 224 0 0 1
+snippet/064 "Here Again" 63488 224 0 0 1
+snippet/065 "Battlecry" 63488 224 0 0 1
+snippet/066 "Drenched In Love" 63488 224 0 0 1
+snippet/067 "Faithful Now" 63488 224 0 0 1
+snippet/068 "My Testimony" 63488 224 0 0 1
+snippet/069 "Blessed Assuranc" 63488 224 0 0 1
+snippet/070 "His Eye Is On Th" 192 63488 0 0 1
+snippet/071 "Ain't No Grave" 192 63488 0 0 1
+snippet/072 "Battle Belongs" 63488 63488 0 0 1
 snippet/073 "All Hail King Je" 16928 240 0 0 1
-snippet/074 "Build My Life" 192 17440 0 0 1
-snippet/075 "Promises" 192 17440 0 0 1
-snippet/076 "O Praise The Nam" 192 17440 0 0 1
-snippet/077 "For The One" 192 17440 0 0 1
-snippet/078 "Back To Life" 192 17440 0 0 1
-snippet/079 "We Fall Down" 192 17440 0 0 1
-snippet/080 "Joy To The World" 192 17440 0 0 1
-snippet/081 "This Is Our God" 192 17440 0 0 1
-snippet/082 "Christmas Medley" 192 17440 0 0 1
-snippet/083 "Jesus Paid It Al" 192 17440 0 0 1
-snippet/084 "Your Love Never " 192 17440 0 0 1
-snippet/085 "How He Loves Med" 192 17440 0 0 1
-snippet/086 "For The Cross" 192 17440 0 0 1
-snippet/087 "You Restore My S" 192 17440 0 0 1
+snippet/074 "Build My Life" 192 63488 0 0 1
+snippet/075 "Promises" 192 63488 0 0 1
+snippet/076 "O Praise The Nam" 192 63488 0 0 1
+snippet/077 "For The One" 192 63488 0 0 1
+snippet/078 "Back To Life" 192 63488 0 0 1
+snippet/079 "We Fall Down" 192 63488 0 0 1
+snippet/080 "Joy To The World" 192 63488 0 0 1
+snippet/081 "This Is Our God" 192 63488 0 0 1
+snippet/082 "Christmas Medley" 192 63488 0 0 1
+snippet/083 "Jesus Paid It Al" 192 63488 0 0 1
+snippet/084 "Your Love Never " 192 63488 0 0 1
+snippet/085 "How He Loves Med" 192 63488 0 0 1
+snippet/086 "For The Cross" 192 63488 0 0 1
+snippet/087 "You Restore My S" 192 63488 0 0 1
 snippet/088 "What He's Done" 17504 63488 0 0 1
-snippet/089 "Living Hope" 17440 61440 0 0 1
-snippet/090 "Never Once" 192 17440 0 0 1
-snippet/091 "Thank You Jesus " 192 17440 0 0 1
-snippet/092 "That's The Power" 192 17440 0 0 1
-snippet/093 "Great Is Thy Fai" 192 17440 0 0 1
-snippet/094 "Same God" 17440 61440 0 0 1
-snippet/095 "This I Believe" 192 17440 0 0 1
-snippet/096 "Your Promises" 192 17440 0 0 1
-snippet/097 "God Turn It Arou" 192 17440 0 0 1
+snippet/089 "Living Hope" 63488 61440 0 0 1
+snippet/090 "Never Once" 192 63488 0 0 1
+snippet/091 "Thank You Jesus " 192 63488 0 0 1
+snippet/092 "That's The Power" 192 63488 0 0 1
+snippet/093 "Great Is Thy Fai" 192 63488 0 0 1
+snippet/094 "Same God" 63488 61440 0 0 1
+snippet/095 "This I Believe" 192 63488 0 0 1
+snippet/096 "Your Promises" 192 63488 0 0 1
+snippet/097 "God Turn It Arou" 192 63488 0 0 1
 snippet/098 "EQ Off" 4 0 0 12 1
 snippet/099 "Headphone EQ" 4 0 0 12 1
