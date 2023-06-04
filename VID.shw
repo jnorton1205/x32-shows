@@ -12,7 +12,7 @@ cue/008 310 "Raise A Hallelujah" 0 -1 20 0 1 0 0
 cue/009 311 "Speak" 0 -1 9 0 1 0 0
 cue/010 320 "Living Hope" 0 -1 89 0 1 0 0
 cue/011 321 "Speak" 1 -1 9 0 1 0 0
-cue/012 330 "King Of Kings" 0 35 -1 0 1 0 0
+cue/012 330 "King Of Kings" 0 -1 35 0 1 0 0
 cue/013 331 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/014 332 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/015 333 "Speak" 0 -1 9 0 1 0 0
