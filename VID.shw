@@ -4,17 +4,17 @@ cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
 cue/002 110 "Speak" 0 -1 9 0 1 0 0
 cue/003 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/004 120 "America The Beautiful" 0 -1 43 0 1 0 0
+cue/004 120 "Holy Forever" 0 -1 80 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 300 "Worship" 1 -1 -1 0 1 0 0
 cue/007 301 "Speak" 0 -1 9 0 1 0 0
-cue/008 310 "Unstoppable God" 0 -1 16 0 1 0 0
+cue/008 310 "I Speak Jesus" 0 -1 43 0 1 0 0
 cue/009 311 "Speak" 0 -1 9 0 1 0 0
-cue/010 320 "Faithful Now" 0 -1 67 0 1 0 0
+cue/010 320 "Back To Life" 0 -1 78 0 1 0 0
 cue/011 330 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/012 331 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/013 332 "Speak" 0 -1 9 0 1 0 0
-cue/014 340 "Surrounded" 0 -1 42 0 1 0 0
+cue/013 332 "Speak" 1 -1 9 0 1 0 0
+cue/014 340 "Surrounded" 1 -1 42 0 1 0 0
 cue/015 341 "Speak" 0 -1 9 0 1 0 0
 cue/016 500 "Hosting" 1 -1 -1 0 1 0 0
 cue/017 510 "Vid: Stinger" 0 -1 10 0 1 0 0
@@ -39,7 +39,7 @@ cue/035 800 "Communion" 1 -1 -1 0 1 0 0
 cue/036 801 "Speak" 0 -1 9 0 1 0 0
 cue/037 802 "Unmute Band" 0 -1 7 0 1 0 0
 cue/038 803 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/039 810 "God Turn It Around" 0 -1 97 0 1 0 0
+cue/039 810 "Christ Is Enough" 0 -1 45 0 1 0 0
 cue/040 820 "Unmute Host" 1 -1 3 0 1 0 0
 cue/041 821 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/042 900 "Post-Service" 1 -1 -1 0 1 0 0
@@ -129,7 +129,7 @@ snippet/076 "O Praise The Nam" 192 63488 0 0 1
 snippet/077 "For The One" 192 63488 0 0 1
 snippet/078 "Back To Life" 192 63488 0 0 1
 snippet/079 "We Fall Down" 192 63488 0 0 1
-snippet/080 "Joy To The World" 192 63488 0 0 1
+snippet/080 "Holy Forever" 192 63488 0 0 1
 snippet/081 "This Is Our God" 192 63488 0 0 1
 snippet/082 "Christmas Medley" 192 63488 0 0 1
 snippet/083 "Jesus Paid It Al" 192 63488 0 0 1
