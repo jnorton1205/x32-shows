@@ -4,20 +4,20 @@ cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
 cue/002 110 "Speak" 0 -1 9 0 1 0 0
 cue/003 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/004 120 "Holy Forever" 0 -1 80 0 1 0 0
+cue/004 120 "What A Beautiful Name" 0 -1 28 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 300 "Worship" 1 -1 -1 0 1 0 0
 cue/007 301 "Speak" 0 -1 9 0 1 0 0
-cue/008 310 "I Speak Jesus" 0 -1 43 0 1 0 0
+cue/008 310 "That's The Power" 0 -1 92 0 1 0 0
 cue/009 311 "Speak" 0 -1 9 0 1 0 0
-cue/010 320 "Back To Life" 0 -1 78 0 1 0 0
-cue/011 330 "Unmute Roscoe" 1 -1 5 0 1 0 0
-cue/012 331 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/010 320 "See A Victory" 0 -1 18 0 1 0 0
+cue/011 330 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/012 331 "Mute Roscoe" 0 -1 6 0 1 0 0
 cue/013 332 "Speak" 1 -1 9 0 1 0 0
-cue/014 340 "Surrounded" 1 -1 42 0 1 0 0
+cue/014 340 "Thank You For The Blood" 1 -1 76 0 1 0 0
 cue/015 341 "Speak" 0 -1 9 0 1 0 0
 cue/016 500 "Hosting" 1 -1 -1 0 1 0 0
-cue/017 510 "Vid: Stinger" 0 -1 10 0 1 0 0
+cue/017 510 "Vid: New Bumper" 0 -1 10 0 1 0 0
 cue/018 511 "Mute Band" 0 -1 8 0 1 0 0
 cue/019 520 "Unmute Host" 0 -1 3 0 1 0 0
 cue/020 521 "BG Music" 0 -1 11 0 1 0 0
@@ -36,9 +36,9 @@ cue/032 720 "Unmute Roscoe" 0 -1 5 0 1 0 0
 cue/033 721 "Mute Host" 1 -1 4 0 1 0 0
 cue/034 722 "Prayer Track" 1 -1 11 0 1 0 0
 cue/035 800 "Communion" 1 -1 -1 0 1 0 0
-cue/036 801 "Speak" 0 -1 9 0 1 0 0
-cue/037 802 "Unmute Band" 0 -1 7 0 1 0 0
-cue/038 803 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/036 801 "Speak" 1 -1 9 0 1 0 0
+cue/037 802 "Unmute Band" 1 -1 7 0 1 0 0
+cue/038 803 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/039 810 "Christ Is Enough" 0 -1 45 0 1 0 0
 cue/040 820 "Unmute Host" 1 -1 3 0 1 0 0
 cue/041 821 "Mute Roscoe" 1 -1 6 0 1 0 0
@@ -47,7 +47,7 @@ cue/043 910 "Vid: Post-Servic" 0 -1 -1 0 1 0 0
 cue/044 911 "Speak" 0 -1 9 0 1 0 0
 cue/045 912 "Mute Band" 0 -1 8 0 1 0 0
 cue/046 920 "Mute Host" 1 -1 4 0 1 0 0
-cue/047 921 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/047 921 "Mute Roscoe" 0 -1 6 0 1 0 0
 scene/001 "Start" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 201326592 15 0 1
