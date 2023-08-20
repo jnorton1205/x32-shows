@@ -15,7 +15,7 @@
 /ch/14/mix/13 ON   0.0 +0 POST 0
 /ch/14/mix/14 ON   -oo
 /ch/15/grp %01000000 %000000
-/ch/15/mix/pan +30
+/ch/15/mix/pan +60
 /ch/15/mix/13 ON   0.0 +0 POST 0
 /ch/15/mix/14 ON   -oo
 /ch/16/grp %01000000 %000000
