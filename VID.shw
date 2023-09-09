@@ -4,17 +4,17 @@ cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
 cue/002 110 "Speak" 0 -1 9 0 1 0 0
 cue/003 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/004 120 "What A Beautiful Name" 1 -1 28 0 1 0 0
+cue/004 120 "What A Beautiful" 1 -1 28 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 300 "Worship" 1 -1 -1 0 1 0 0
 cue/007 301 "Speak" 0 -1 9 0 1 0 0
 cue/008 310 "This Is Our God" 0 -1 81 0 1 0 0
 cue/009 311 "Speak" 0 -1 9 0 1 0 0
-cue/010 320 "I've Witnessed It" 0 -1 82 0 1 0 0
+cue/010 320 "I've Witnessed I" 0 -1 82 0 1 0 0
 cue/011 330 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/012 331 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/013 332 "Speak" 0 -1 9 0 1 0 0
-cue/014 340 "Raise A Hallelujah" 0 -1 20 0 1 0 0
+cue/014 340 "Raise A Halleluj" 0 -1 20 0 1 0 0
 cue/015 341 "Speak" 1 -1 9 0 1 0 0
 cue/016 500 "Hosting" 1 -1 -1 0 1 0 0
 cue/017 510 "Vid: New Bumper" 1 -1 10 0 1 0 0
@@ -131,7 +131,7 @@ snippet/078 "Back To Life" 192 63488 0 0 1
 snippet/079 "We Fall Down" 192 63488 0 0 1
 snippet/080 "Holy Forever" 192 63488 0 0 1
 snippet/081 "This Is Our God" 192 63488 0 0 1
-snippet/082 "I've Witnessed It" 192 63488 0 0 1
+snippet/082 "I've Witnessed I" 192 63488 0 0 1
 snippet/083 "Jesus Paid It Al" 192 63488 0 0 1
 snippet/084 "Your Love Never " 192 63488 0 0 1
 snippet/085 "How He Loves Med" 192 63488 0 0 1
