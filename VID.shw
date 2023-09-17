@@ -4,23 +4,23 @@ cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
 cue/002 110 "Speak" 0 -1 9 0 1 0 0
 cue/003 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/004 120 "House Of The Lor" 0 -1 62 0 1 0 0
+cue/004 120 "Firm Foundation" 0 -1 50 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 300 "Worship" 1 -1 -1 0 1 0 0
 cue/007 301 "Speak" 0 -1 9 0 1 0 0
-cue/008 310 "Famous For" 0 -1 37 0 1 0 0
+cue/008 310 "This Is Our God" 0 -1 81 0 1 0 0
 cue/009 311 "Speak" 0 -1 9 0 1 0 0
-cue/010 320 "Same God" 0 -1 94 0 1 0 0
+cue/010 320 "What A Beautiful Name" 0 -1 28 0 1 0 0
 cue/011 330 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/012 331 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/013 332 "Speak" 1 -1 9 0 1 0 0
 cue/014 340 "Raise A Halleluj" 1 -1 20 0 1 0 0
 cue/015 500 "Hosting" 1 -1 -1 0 1 0 0
-cue/016 510 "Vid: Story 1" 0 -1 10 0 1 0 0
-cue/017 511 "Speak" 0 -1 9 0 1 0 0
-cue/018 512 "Mute Band" 0 -1 8 0 1 0 0
+cue/016 510 "Vid: Story 1" 1 -1 10 0 1 0 0
+cue/017 511 "BG Music" 0 -1 11 0 1 0 0
+cue/018 512 "Speak" 0 -1 9 0 1 0 0
 cue/019 520 "Unmute Host" 0 -1 3 0 1 0 0
-cue/020 521 "BG Music" 0 -1 11 0 1 0 0
+cue/020 521 "Mute Band" 0 -1 8 0 1 0 0
 cue/021 530 "Vid: Fist Bump" 1 -1 -1 0 1 0 0
 cue/022 531 "Mute Host" 1 -1 4 0 1 0 0
 cue/023 532 "Unmute Host" 1 -1 3 0 1 0 0
@@ -100,7 +100,7 @@ snippet/046 "God I Look To Yo" 63488 224 536870912 0 1
 snippet/047 "Agnus Dei / King" 63488 61440 0 0 1
 snippet/048 "Love Has A Name" 17568 240 536870912 0 1
 snippet/049 "Reckless Love" 63488 224 536870912 0 1
-snippet/050 "How Deep The Fat" 63488 224 536870912 0 1
+snippet/050 "Firm Foundation" 63488 224 536870912 0 1
 snippet/051 "Because He Lives" 63488 61440 0 0 1
 snippet/052 "Believe For It" 63488 63488 0 0 1
 snippet/053 "All My Hope" 63488 224 536870912 0 1
