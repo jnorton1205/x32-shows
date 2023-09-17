@@ -4,7 +4,7 @@ cue/000 100 "Pre-Service" 1 -1 -1 0 1 0 0
 cue/001 100 "Vid: Pre-Service" 1 -1 1 0 1 0 0
 cue/002 110 "Speak" 0 -1 9 0 1 0 0
 cue/003 101 "Unmute Band" 0 -1 7 0 1 0 0
-cue/004 120 "House Of The Lord" 0 -1 62 0 1 0 0
+cue/004 120 "House Of The Lor" 0 -1 62 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 300 "Worship" 1 -1 -1 0 1 0 0
 cue/007 301 "Speak" 0 -1 9 0 1 0 0
@@ -29,7 +29,7 @@ cue/025 534 "Mute Host" 0 -1 4 0 1 0 0
 cue/026 535 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/027 536 "BG Music" 1 -1 11 0 1 0 0
 cue/028 537 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/029 540 "Vid: Story 2 & Bump" 0 -1 10 0 1 0 0
+cue/029 540 "Vid: Story 2 & B" 0 -1 10 0 1 0 0
 cue/030 700 "Message" 1 -1 -1 0 1 0 0
 cue/031 710 "Unmute Host" 1 -1 3 0 1 0 0
 cue/032 720 "Unmute Roscoe" 0 -1 5 0 1 0 0
@@ -39,7 +39,7 @@ cue/035 800 "Communion" 1 -1 -1 0 1 0 0
 cue/036 801 "Speak" 0 -1 9 0 1 0 0
 cue/037 802 "Unmute Band" 0 -1 7 0 1 0 0
 cue/038 803 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/039 810 "I've Witnessed It" 0 -1 82 0 1 0 0
+cue/039 810 "I've Witnessed I" 0 -1 82 0 1 0 0
 cue/040 820 "Unmute Host" 1 -1 3 0 1 0 0
 cue/041 821 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/042 900 "Post-Service" 1 -1 -1 0 1 0 0
@@ -49,6 +49,7 @@ cue/045 912 "Mute Band" 0 -1 8 0 1 0 0
 cue/046 920 "Mute Host" 1 -1 4 0 1 0 0
 cue/047 921 "Mute Roscoe" 1 -1 6 0 1 0 0
 scene/001 "Start" "" %000000000 1
+scene/002 "Drums" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 201326592 15 0 1
 snippet/002 "Mute Crowd" 192 50331648 0 0 1
