@@ -8,23 +8,23 @@ cue/004 120 "Praise Opens Pri" 1 -1 32 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 300 "Worship" 1 -1 -1 0 1 0 0
 cue/007 301 "Speak" 0 -1 9 0 1 0 0
-cue/008 310 "Battle Belongs" 0 -1 72 0 1 0 0
+cue/008 310 "Graves Into Gardens" 0 -1 15 0 1 0 0
 cue/009 311 "Speak" 0 -1 9 0 1 0 0
-cue/010 320 "King Of Kings" 0 -1 35 0 1 0 0
+cue/010 320 "Firm Foundation" 0 -1 50 0 1 0 0
 cue/011 330 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/012 331 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/013 332 "Speak" 0 -1 9 0 1 0 0
-cue/014 340 "Firm Foundation" 0 -1 50 0 1 0 0
+cue/014 340 "I've Witnessed It" 0 -1 82 0 1 0 0
 cue/015 341 "Speak" 0 -1 9 0 1 0 0
 cue/016 342 "Mute Band" 0 -1 8 0 1 0 0
 cue/017 500 "Hosting" 1 -1 -1 0 1 0 0
 cue/018 510 "Vid: Man Up" 0 -1 10 0 1 0 0
 cue/019 520 "Unmute Host" 0 -1 3 0 1 0 0
 cue/020 521 "BG Music" 0 -1 11 0 1 0 0
-cue/021 530 "Vid: Fist Bump" 0 -1 10 0 1 0 0
-cue/022 531 "Mute Host" 0 -1 4 0 1 0 0
-cue/023 532 "Unmute Host" 0 -1 3 0 1 0 0
-cue/024 533 "BG Music" 0 -1 11 0 1 0 0
+cue/021 530 "Vid: Fist Bump" 1 -1 10 0 1 0 0
+cue/022 531 "Mute Host" 1 -1 4 0 1 0 0
+cue/023 532 "Unmute Host" 1 -1 3 0 1 0 0
+cue/024 533 "BG Music" 1 -1 11 0 1 0 0
 cue/025 534 "Mute Host" 0 -1 4 0 1 0 0
 cue/026 535 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/027 536 "BG Music" 1 -1 11 0 1 0 0
@@ -39,7 +39,7 @@ cue/035 800 "Communion" 1 -1 -1 0 1 0 0
 cue/036 801 "Speak" 1 -1 9 0 1 0 0
 cue/037 802 "Unmute Band" 1 -1 7 0 1 0 0
 cue/038 803 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/039 810 "I've Witnessed I" 1 -1 82 0 1 0 0
+cue/039 810 "For The One" 0 -1 77 0 1 0 0
 cue/040 820 "Unmute Host" 1 -1 3 0 1 0 0
 cue/041 821 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/042 900 "Post-Service" 1 -1 -1 0 1 0 0
