@@ -8,48 +8,49 @@ cue/004 120 "Praise Opens Pri" 1 -1 32 0 1 0 0
 cue/005 200 "Welcome" 1 -1 -1 0 1 0 0
 cue/006 300 "Worship" 1 -1 -1 0 1 0 0
 cue/007 301 "Speak" 1 -1 9 0 1 0 0
-cue/008 310 "Battle Belongs" 0 -1 72 0 1 0 0
+cue/008 310 "That's The Power" 0 -1 92 0 1 0 0
 cue/009 311 "Speak" 0 -1 9 0 1 0 0
-cue/010 320 "Holy Forever" 0 -1 80 0 1 0 0
+cue/010 320 "Firm Foundation" 0 -1 50 0 1 0 0
 cue/011 330 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/012 331 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/013 332 "Speak" 1 -1 9 0 1 0 0
-cue/014 340 "Goodness Of God" 0 -1 29 0 1 0 0
+cue/013 332 "Speak" 0 -1 9 0 1 0 0
+cue/014 340 "Same God" 0 -1 94 0 1 0 0
 cue/015 341 "Speak" 0 -1 9 0 1 0 0
 cue/016 342 "Mute Band" 0 -1 8 0 1 0 0
 cue/017 500 "Hosting" 1 -1 -1 0 1 0 0
 cue/018 510 "Vid: Portuguese" 0 -1 10 0 1 0 0
 cue/019 520 "Unmute Host" 0 -1 3 0 1 0 0
 cue/020 521 "BG Music" 0 -1 11 0 1 0 0
-cue/021 531 "Mute Host" 1 -1 4 0 1 0 0
-cue/022 532 "Unmute Host" 1 -1 3 0 1 0 0
-cue/023 533 "BG Music" 1 -1 11 0 1 0 0
-cue/024 534 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/025 536 "Mute Host" 0 -1 4 0 1 0 0
-cue/026 537 "Unmute Host" 0 -1 3 0 1 0 0
-cue/027 538 "Mute Host" 0 -1 4 0 1 0 0
-cue/028 539 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/029 540 "Vid: Bumper" 0 -1 10 0 1 0 0
-cue/030 700 "Message" 1 -1 -1 0 1 0 0
-cue/031 710 "Unmute Host" 1 -1 3 0 1 0 0
-cue/032 720 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/033 721 "Mute Host" 1 -1 4 0 1 0 0
-cue/034 722 "Prayer Track" 1 -1 11 0 1 0 0
-cue/035 730 "Vid" 0 -1 10 0 1 0 0
-cue/036 731 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/037 732 "Unmute Roscoe" 0 -1 5 0 1 0 0
-cue/038 800 "Communion" 1 -1 -1 0 1 0 0
-cue/039 801 "Speak" 1 -1 9 0 1 0 0
-cue/040 802 "Unmute Band" 1 -1 7 0 1 0 0
-cue/041 810 "For The One" 1 -1 77 0 1 0 0
-cue/042 820 "Unmute Host" 1 -1 3 0 1 0 0
-cue/043 821 "Mute Roscoe" 1 -1 6 0 1 0 0
-cue/044 900 "Post-Service" 1 -1 -1 0 1 0 0
-cue/045 910 "Vid: Post-Servic" 0 -1 -1 0 1 0 0
-cue/046 911 "Speak" 1 -1 9 0 1 0 0
-cue/047 912 "Mute Band" 1 -1 8 0 1 0 0
-cue/048 920 "Mute Host" 1 -1 4 0 1 0 0
-cue/049 921 "Mute Roscoe" 0 -1 6 0 1 0 0
+cue/021 530 "Vid: Fist Bump" 0 -1 -1 0 1 0 0
+cue/022 531 "Mute Host" 0 -1 4 0 1 0 0
+cue/023 532 "Unmute Host" 0 -1 3 0 1 0 0
+cue/024 533 "BG Music" 0 -1 11 0 1 0 0
+cue/025 534 "Unmute Roscoe" 1 -1 5 0 1 0 0
+cue/026 536 "Mute Host" 1 -1 4 0 1 0 0
+cue/027 537 "Unmute Host" 1 -1 3 0 1 0 0
+cue/028 538 "Mute Host" 0 -1 4 0 1 0 0
+cue/029 539 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/030 540 "Vid: 2x Bumper" 0 -1 10 0 1 0 0
+cue/031 700 "Message" 1 -1 -1 0 1 0 0
+cue/032 710 "Unmute Host" 1 -1 3 0 1 0 0
+cue/033 720 "Unmute Roscoe" 0 -1 5 0 1 0 0
+cue/034 721 "Mute Host" 1 -1 4 0 1 0 0
+cue/035 722 "Prayer Track" 1 -1 11 0 1 0 0
+cue/036 730 "Vid" 1 -1 10 0 1 0 0
+cue/037 731 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/038 732 "Unmute Roscoe" 1 -1 5 0 1 0 0
+cue/039 800 "Communion" 1 -1 -1 0 1 0 0
+cue/040 801 "Speak" 1 -1 9 0 1 0 0
+cue/041 802 "Unmute Band" 1 -1 7 0 1 0 0
+cue/042 810 "For The One" 1 -1 77 0 1 0 0
+cue/043 820 "Unmute Host" 1 -1 3 0 1 0 0
+cue/044 821 "Mute Roscoe" 1 -1 6 0 1 0 0
+cue/045 900 "Post-Service" 1 -1 -1 0 1 0 0
+cue/046 910 "Vid: Post-Servic" 0 -1 -1 0 1 0 0
+cue/047 911 "Speak" 1 -1 9 0 1 0 0
+cue/048 912 "Mute Band" 1 -1 8 0 1 0 0
+cue/049 920 "Mute Host" 1 -1 4 0 1 0 0
+cue/050 921 "Mute Roscoe" 0 -1 6 0 1 0 0
 scene/001 "Start" "" %000000000 1
 scene/002 "Drums" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
