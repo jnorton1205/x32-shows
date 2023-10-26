@@ -52,7 +52,6 @@ cue/048 912 "Mute Band" 1 -1 8 0 1 0 0
 cue/049 920 "Mute Host" 1 -1 4 0 1 0 0
 cue/050 921 "Mute Roscoe" 0 -1 6 0 1 0 0
 scene/001 "Start" "" %000000000 1
-scene/002 "Drums" "" %000000000 1
 snippet/000 "Labels" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 201326592 15 0 1
 snippet/002 "Mute Crowd" 192 50331648 0 0 1
