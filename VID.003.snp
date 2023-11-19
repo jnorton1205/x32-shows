@@ -1,9 +1,9 @@
-#4.0# "Unmute Host / Cr" 224 1342177280 0 32768 1                                                                              
-/ch/29/mix/fader   0.0
-/ch/29/mix/pan +0
-/ch/29/mix/on OFF
+#4.0# "Unmute Host / Cr" 192 1610612736 0 32768 1                                                                              
+/ch/30/mix/fader   0.0
+/ch/30/mix/pan +0
+/ch/30/mix/on ON
 /ch/31/mix/fader   0.0
 /ch/31/mix/pan +0
 /ch/31/mix/on ON
-/dca/8/fader  +0.0
+/dca/8/fader   0.0
 /dca/8/on ON

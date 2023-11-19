@@ -30,7 +30,7 @@ cue/026 533 "BG Music" 1 -1 11 0 1 0 0
 cue/027 534 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/028 536 "Mute Host" 1 -1 4 0 1 0 0
 cue/029 537 "Unmute Host" 1 -1 3 0 1 0 0
-cue/030 538 "Mute Host" 1 -1 4 0 1 0 0
+cue/030 538 "Mute Host" 0 -1 4 0 1 0 0
 cue/031 539 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/032 540 "Vid: Bumper" 0 -1 10 0 1 0 0
 cue/033 700 "Message" 1 -1 -1 0 1 0 0
@@ -38,14 +38,14 @@ cue/034 710 "Unmute Host" 1 -1 3 0 1 0 0
 cue/035 720 "Unmute Roscoe" 0 -1 5 0 1 0 0
 cue/036 721 "Mute Host" 1 -1 4 0 1 0 0
 cue/037 722 "Prayer Track" 1 -1 11 0 1 0 0
-cue/038 730 "Vid" 0 -1 -1 0 1 0 0
+cue/038 730 "Vid" 1 -1 -1 0 1 0 0
 cue/039 731 "Mute Roscoe" 1 -1 6 0 1 0 0
 cue/040 732 "Unmute Roscoe" 1 -1 5 0 1 0 0
 cue/041 800 "Communion" 1 -1 -1 0 1 0 0
 cue/042 801 "Speak" 0 -1 9 0 1 0 0
 cue/043 802 "Unmute Band" 0 -1 7 0 1 0 0
 cue/044 803 "Mute Roscoe" 0 -1 6 0 1 0 0
-cue/045 810 "What A Friend We " 0 -1 -1 0 1 0 0
+cue/045 810 "What A Friend We" 0 -1 14 0 1 0 0
 cue/046 820 "Unmute Host" 1 -1 3 0 1 0 0
 cue/047 900 "Post-Service" 1 -1 -1 0 1 0 0
 cue/048 910 "Vid: Post-Servic" 0 -1 -1 0 1 0 0
@@ -54,10 +54,9 @@ cue/050 912 "Mute Band" 0 -1 8 0 1 0 0
 cue/051 920 "Mute Host" 1 -1 4 0 1 0 0
 cue/052 921 "Mute Roscoe" 1 -1 6 0 1 0 0
 scene/001 "Start" "" %000000000 1
-snippet/000 "" 2 224 0 0 1
 snippet/001 "Vid: 0dB" 192 201326592 15 0 1
 snippet/002 "Praise" 63488 536870912 0 0 1
-snippet/003 "Unmute Host / Cr" 224 1342177280 0 32768 1
+snippet/003 "Unmute Host / Cr" 192 1610612736 0 32768 1
 snippet/004 "Mute Host" 128 1879048192 0 0 1
 snippet/005 "Unmute Roscoe" 192 -2147483648 0 32768 1
 snippet/006 "Mute Roscoe" 128 -1879048192 0 0 1
